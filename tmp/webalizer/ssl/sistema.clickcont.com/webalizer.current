@@ -1,0 +1,178 @@
+# Webalizer V2.23-08 Incremental Data - 03/01/2022 08:01:47
+2022 3 1 8 1 47
+30 23 2 14 10 2 611346 24 2 0
+2 14 15 1 1
+30 23 611346 2 24 2
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+1 0 386 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+15 10 218530 15
+14 13 392430 8
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0
+0
+0
+23
+0
+0
+0
+0
+0
+0
+0
+0
+6
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/js/pessoaFisicaOuJuridica.js
+0 1 34303648 1988 0 0
+/clientes
+0 1 34303888 53044 0 0
+/js/cidades.js
+0 1 34303520 525 0 0
+/empresas/configEmitente/13
+0 1 34304400 86975 0 0
+/graficos/faturamentoDosUltimosSeteDias
+0 4 34328336 316 0 0
+/graficos
+0 4 34336544 127775 0 0
+/empresas/detalhes/13
+0 2 34308832 82513 0 0
+/clientes/new
+0 1 34303760 144834 0 0
+/empresas
+0 2 34314880 61730 0 0
+/login
+0 2 34377376 10865 0 0
+/js/config.js
+0 1 34304272 223 0 0
+/empresas/setarPlano/13
+0 1 34304528 29730 0 0
+/js/teste.js
+0 1 34304016 1365 0 0
+/metronic/css/fonts/keenthemes-icons/Ki.woff
+0 1 34303392 5628 0 0
+# End Of Table - urls
+# -sites- (monthly)
+22.35.86.34.bc.googleusercontent.com
+0 1 0 386 1 1646106601
+-
+177.134.94.252.dynamic.adsl.gvt.net.br
+0 29 23 610960 1 1646121707
+/graficos/faturamentoDosUltimosSeteDias
+# End Of Table - sites (monthly)
+# -sites- (daily)
+22.35.86.34.bc.googleusercontent.com
+0 1 0 386 1 1646106601
+-
+177.134.94.252.dynamic.adsl.gvt.net.br
+0 29 23 610960 1 1646121707
+/graficos/faturamentoDosUltimosSeteDias
+# End Of Table - sites (daily)
+# -referrers- 
+https://sistema.clickcont.com/graficos
+0 8
+https://sistema.clickcont.com/metronic/css/plugins.bundle.css
+0 1
+https://sistema.clickcont.com/login
+0 6
+- (Direct Request)
+0 1
+https://sistema.clickcont.com/clientes
+0 1
+https://sistema.clickcont.com/empresas
+0 2
+https://sistema.clickcont.com/empresas/configEmitente/13
+0 4
+https://sistema.clickcont.com/clientes/new
+0 3
+https://sistema.clickcont.com/empresas/detalhes/13
+0 2
+https://sistema.clickcont.com/empresas/setarPlano/13
+0 2
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+0 29
+Expanse, a Palo Alto Networks company, searches across the global IPv4 space multiple times per day to identify customers&#39
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GerarNfseEnvio xmlns="http://www.betha.com.br/e-nota-contribuinte-ws">
+		<Rps>
+		<InfDeclaracaoPrestacaoServico Id="lote1">
+		<Rps>
+		<IdentificacaoRps>
+		<Numero>23</Numero>
+		<Serie>A1</Serie>
+		<Tipo>1</Tipo>
+		</IdentificacaoRps>
+		<DataEmissao>2014-12-06</DataEmissao>
+		<Status>1</Status>
+		</Rps>
+		<Competencia>2014-12-01</Competencia>
+		<Servico>
+		<Valores>
+		<ValorServicos>100</ValorServicos>
+		<ValorDeducoes>0</ValorDeducoes>
+		<ValorPis>0</ValorPis>
+		<ValorCofins>0</ValorCofins>
+		<ValorInss>0</ValorInss>
+		<ValorIr>0</ValorIr>
+		<ValorCsll>0</ValorCsll>
+		<OutrasRetencoes>0</OutrasRetencoes>
+		<DescontoIncondicionado>0</DescontoIncondicionado>
+		<DescontoCondicionado>0</DescontoCondicionado>	
+		</Valores>
+		<IssRetido>2</IssRetido>
+		<ItemListaServico>0702</ItemListaServico>
+		<CodigoTributacaoMunicipio>2525</CodigoTributacaoMunicipio>
+		<Discriminacao>Prog.</Discriminacao>
+		<CodigoMunicipio>4204608</CodigoMunicipio>
+		<ExigibilidadeISS>1</ExigibilidadeISS>
+		<MunicipioIncidencia>4204608</MunicipioIncidencia>
+		</Servico>
+		<Prestador>
+		<CpfCnpj>
+		<Cnpj>45111111111100</Cnpj>
+		</CpfCnpj>
+		<InscricaoMunicipal>123498</InscricaoMunicipal>
+		</Prestador>
+		<Tomador>
+		<IdentificacaoTomador>
+		<CpfCnpj>
+		<Cnpj>83787494000123</Cnpj>
+		</CpfCnpj>						
+		</IdentificacaoTomador>
+		<RazaoSocial>INSTITUICAO FINANCEIRA</RazaoSocial>
+		<Endereco>
+		<Endereco>AV. 7 DE SETEMBRO</Endereco>
+		<Numero>1505</Numero>
+		<Complemento>AO LADO DO JOAO AUTOMOVEIS</Complemento>
+		<Bairro>CENTRO</Bairro>
+		<CodigoMunicipio>4201406</CodigoMunicipio>
+		<Uf>SC</Uf>
+		<Cep>88900000</Cep>
+		</Endereco>
+		<Contato>
+		<Telefone>4835220026</Telefone>
+		<Email>bergman@tsmail.com</Email>
+		</Contato>
+		</Tomador>
+		<Intermediario>
+		<IdentificacaoIntermediario>
+		<CpfCnpj>
+		<Cnpj>06410987065144</Cnpj>
+		</CpfCnpj>
+		<InscricaoMunicipal>22252</InscricaoMunicipal>				
+		</IdentificacaoIntermediario>
+		<RazaoSocial>CONSTRUTORA TERRA FIRME</RazaoSocial>
+		</Intermediario>
+		<ConstrucaoCivil>
+		<CodigoObra>142</CodigoObra>
+		<Art>1/2014</Art>
+		</ConstrucaoCivil>
+		<RegimeEspecialTributacao>3</RegimeEspecialTributacao>
+		<OptanteSimplesNacional>2</OptanteSimplesNacional>
+		<IncentivoFiscal>2</IncentivoFiscal>
+		</InfDeclaracaoPrestacaoServico>
+		</Rps>
+		<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#">
+  <ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/>
+    <ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+  <ds:Reference URI=""><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/><ds:Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>at4EjTRBc0+PPgp3ALiCMgZebh8=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue>cV8GqwQMhrWoFEo5pnfbXCheoy0Gp4AfGP1uBzgFtYlAHCxCn7g1iQqtZs+d4i1uR+8h77ZhGA5VDZSPPLJMXsDinsAqEgMPU2rzGqmbicunxBCg34I4a876O38rfKgWlJw2ks6K6cdao+xXd3DgH7neZY1283PGM3r4U511ex4UZDltBLbFemZhy+kbgX0+6zxv07exp9PaEUUcbYmZV5lXqiseCXg3NsCSbtnStz075Fs3b1Hisw0koX4JbvnFk1q83dP5Tcx63U1CoW5RqUV1bVpLKnn1G8tGHIV9fVgB3xTsYamp3I8aBv4rKIa9AptVZ5d50ZgbDxObVe3WZw==</ds:SignatureValue>
+<ds:KeyInfo><ds:X509Data><ds:X509Certificate>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</ds:X509Certificate></ds:X509Data></ds:KeyInfo></ds:Signature></GerarNfseEnvio>

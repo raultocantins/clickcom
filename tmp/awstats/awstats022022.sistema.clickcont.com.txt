@@ -1,0 +1,642 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202202 will be lost/reset.
+# Last config file used to build this data file was /home4/sistemaclickcont/tmp/awstats/awstats.sistema.clickcont.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2027                
+POS_TIME 2707                
+POS_VISITOR 10058               
+POS_DAY 13359               
+POS_DOMAIN 3515                
+POS_LOGIN 3877                
+POS_ROBOT 4032                
+POS_WORMS 4241                
+POS_EMAILSENDER 4372                
+POS_EMAILRECEIVER 4515                
+POS_SESSION 14090               
+POS_SIDER 14299               
+POS_FILETYPES 4650                
+POS_DOWNLOADS 4918                
+POS_OS 5032                
+POS_BROWSER 5198                
+POS_SCREENSIZE 5786                
+POS_UNKNOWNREFERER 5860                
+POS_UNKNOWNREFERERBROWSER 6102                
+POS_ORIGIN 6253                
+POS_SEREFERRALS 6395                
+POS_PAGEREFS 6539                
+POS_SEARCHWORDS 6756                
+POS_KEYWORDS 6908                
+POS_MISC 2370                
+POS_ERRORS 6967                
+POS_CLUSTER 3733                
+POS_SIDER_404 7135                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20220301030117 92 22503 11778357713400
+FirstTime 20220201024855
+LastTime 20220228235429
+LastUpdate 20220301103224 92 0 91 0 0
+TotalVisits 184                 
+TotalUnique 81                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 82                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+AddToFavourites 0 23 0
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 14 17 472861 11 15 12054
+1 4 4 21630 4 4 818
+2 52 52 3328 0 0 0
+3 7 7 28964 3 3 807
+4 6 6 32422 6 6 1227
+5 2 2 10802 2 2 409
+6 5 5 39527 6 6 1299
+7 8 24 797485 6 7 244862
+8 13 79 1006871 4 5 991
+9 68 165 8132623 100 155 334008
+10 138 245 8127874 57 114 849000
+11 174 328 10343449 71 95 1018007
+12 110 174 4090177 42 50 76155
+13 275 294 4005276 37 42 285158
+14 173 263 10775585 47 57 526839
+15 154 299 16454762 72 132 394787
+16 215 306 7955348 84 109 609791
+17 192 323 14606612 32 40 22644
+18 50 147 11487639 70 116 1094087
+19 60 234 13447113 103 139 1148692
+20 21 58 2192819 16 20 143524
+21 81 343 25535645 183 245 633558
+22 24 150 12150912 40 49 334150
+23 8 12 1695422 7 7 1221
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 9
+br 1592 2746 109222081
+us 135 228 9609480
+in 97 304 16179476
+ma 20 168 7123786
+ch 5 64 6597685
+gr 2 2 35786
+de 1 1 17893
+ar 1 5 117124
+co 1 19 1906047
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 2
+facebookexternalhit/ 2 122784 20220216182845 0
+unknown 1 24 20220217192305 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+json 15 116324 0 0
+woff2 20 1543200 0 0
+css 562 18451117 0 0
+jpeg 10 419750 0 0
+Unknown 1809 26304337 0 0
+gif 57 9413160 0 0
+png 218 14985124 0 0
+woff 10 143048 0 0
+js 832 76827510 0 0
+mp3 4 1687867 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 2
+/notificacao/s1.mp3 0 87 1253924
+/notificacao/s2.mp3 0 92 1351864
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 7
+macosx 642 193
+ios_iphone 607 72
+win7 25 1
+Unknown 59 59
+ios_ipad 181 84
+linux 69 15
+win10 2133 1430
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 26
+opera82.0.4227.58 3 3
+firefox78.0 14 1
+opera77.0.4054.275 25 1
+opera83.0.4254.27 2 2
+chrome97.0.4692.99 228 141
+firefox89.0 19 1
+chrome95.0.4638.69 5 1
+safari14.0.3 51 7
+chrome98.0.4758.80 534 403
+safari 119 22
+firefox96.0 774 292
+opera80.0.4170.63 5 1
+safari15.1 556 65
+chrome98.0.4758.102 846 661
+firefox91.0 7 2
+safari11.0 62 62
+Unknown 58 58
+chrome96.0.4664.45 44 14
+chrome91.0.4472.114 25 1
+firefox97.0 264 102
+chrome96.0.4664.55 4 1
+chrome83.0.4103.106 7 7
+opera83.0.4254.62 1 1
+chrome92.0.4515.131 56 3
+safari15.0 6 1
+mozilla 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20220207140301
+Cpanel-HTTP-Client/1.0 20220228030308
+Go_http_package 20220206214814
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Go_http_package 20220206214814
+Cpanel-HTTP-Client/1.0 20220228030308
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 232 273
+From1 0 0
+From2 0 0
+From3 10 10
+From4 1612 3433
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+https://br596.hostgator.com.br:2083 8 8
+http://162.241.203.26:80 2 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+401 16 1166
+404 913 2197522
+206 11 430076
+409 1 83
+500 32 4880678
+419 7 16947
+302 412 84808
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 32
+/../../imgs/logo1.png 2 -
+/metronic/css/fonts/line-awesome/la-regular-400.ttf 54 http://sistema.clickcont.com/graficos
+//consultaCadastrado/038.502.021-00 1 http://sistema.clickcont.com/acessores/new
+/metronic/css/fonts/line-awesome/la-solid-900.woff 58 http://sistema.clickcont.com/graficos
+//consultaCadastrado/821.085.810-65 3 http://sistema.clickcont.com/transportadoras/new
+/metronic/css/fonts/line-awesome/la-brands-400.woff 58 http://sistema.clickcont.com/graficos
+/logos/9cc97dadf213f7aa8058b8cc62b8db58903924.png 39 http://sistema.clickcont.com/configNF
+/metronic/css/fonts/line-awesome/la-brands-400.ttf 57 http://sistema.clickcont.com/graficos
+/imgs_planos/8b3b9bfbeee2bca41e9be40a40ed3da2.jpg 23 http://sistema.clickcont.com/plano
+http://sistema.clickcont.com/metronic/css/fonts/@fortawesome/fa-solid-900.woff2 1 http://sistema.clickcont.com/metronic/css/plugins.bundle.css
+http://sistema.clickcont.com/metronic/css/fonts/@fortawesome/fa-solid-900.woff 1 http://sistema.clickcont.com/metronic/css/plugins.bundle.css
+/apple-touch-icon-120x120.png 4 -
+/metronic/css/fonts/line-awesome/la-regular-400.svg 53 http://sistema.clickcont.com/graficos
+/imgs_planos/561ed5956607b9f84282328b4c21c64e.png 27 http://sistema.clickcont.com/plano
+/apple-touch-icon-120x120-precomposed.png 5 -
+/logos/e32a8f959538343a1347a357791eeb53439735.jpeg 1 http://sistema.clickcont.com/configNF
+/imgs_planos/590daa9a8222b03bc0b2bba775ea4705.jpeg 27 http://sistema.clickcont.com/plano
+/metronic/css/fonts/line-awesome/la-solid-900.svg 57 http://sistema.clickcont.com/graficos
+/imgs_planos/2d9eb8e64bbdd27176788b8c92e03144.png 27 http://sistema.clickcont.com/plano
+/apple-touch-icon-precomposed.png 1 -
+/metronic/js/toastr.js.map 11 -
+/apple-touch-icon.png 9 -
+/lottie-player.js.map 3 -
+/imgs_planos/130b469c1a6c02edc4c52dd75e36d2b6.png 4 http://sistema.clickcont.com/plano
+/metronic/css/fonts/line-awesome/la-solid-900.woff2 58 http://sistema.clickcont.com/graficos
+http://sistema.clickcont.com/metronic/css/fonts/@fortawesome/fa-solid-900.ttf 1 http://sistema.clickcont.com/metronic/css/plugins.bundle.css
+/imgs/logo.png 47 http://sistema.clickcont.com/configNF
+/metronic/css/fonts/line-awesome/la-brands-400.svg 56 http://sistema.clickcont.com/graficos
+/metronic/css/fonts/line-awesome/la-solid-900.ttf 57 http://sistema.clickcont.com/graficos
+/metronic/css/fonts/line-awesome/la-brands-400.woff2 58 http://sistema.clickcont.com/graficos
+/metronic/css/fonts/line-awesome/la-regular-400.woff2 56 http://sistema.clickcont.com/graficos
+/metronic/css/fonts/line-awesome/la-regular-400.woff 54 http://sistema.clickcont.com/graficos
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 82
+201.7.4.48 878 982 15035082 20220226141805
+186.213.35.1 238 520 20989663 20220207154618
+177.134.88.99 143 235 5990662 20220222120756
+177.128.119.121 129 300 16915252 20220222144442
+45.179.238.31 86 247 8493160 20220228190806
+162.241.203.26 56 56 3584 20220228030308
+201.10.147.217 35 103 3478413 20220204113134
+191.30.143.241 31 112 2118293 20220216164117
+186.213.33.98 30 65 4458474 20220223154907
+177.128.119.123 22 27 4617268 20220228235429
+45.225.125.129 19 153 6413361 20220218084847
+187.25.35.38 15 122 8027978 20220216210952
+177.128.118.188 13 51 3367309 20220223204657
+161.22.56.238 13 43 7386383 20220202210538
+45.179.238.113 11 115 7686316 20220208224905
+189.114.4.233 9 39 534685 20220217095810
+187.25.32.62 9 66 3179796 20220211192242
+18.206.55.48 7 7 37874 20220228170305
+191.31.172.35 7 51 2964233 20220222121620
+187.25.34.58 7 56 3032290 20220208093702
+54.227.32.154 5 20 1787642 20220228170307
+45.87.9.220 4 4 21630 20220208144000
+170.239.225.36 4 39 4366811 20220216210618
+45.87.9.109 3 3 16216 20220207065211
+45.87.9.156 3 3 16201 20220206202719
+45.87.9.254 1 1 5412 20220211064136
+201.43.250.84 2 2 27169 20220207115946
+45.230.80.101 1 14 702088 20220222131327
+45.87.9.143 2 2 10816 20220210101306
+54.94.66.233 1 1 5411 20220209121802
+15.229.8.178 1 1 5414 20220211162735
+191.241.167.121 1 23 1622791 20220222113340
+189.47.48.3 1 1 13586 20220217194248
+170.239.225.49 1 25 2230874 20220221103429
+45.87.9.252 2 2 10811 20220211064135
+54.94.194.219 1 1 5412 20220209231641
+45.87.9.45 1 1 5411 20220208030708
+92.118.160.17 1 1 17893 20220206193137
+45.87.9.62 1 1 5409 20220205070247
+177.126.85.62 1 25 1635339 20220217194722
+45.87.9.111 1 1 5407 20220205162143
+18.213.114.129 1 25 2230874 20220219225640
+45.87.9.207 1 1 5396 20220201205437
+45.87.9.94 2 2 10817 20220205162144
+18.231.127.112 1 1 17893 20220208030733
+15.228.161.35 1 1 17893 20220211064344
+181.16.144.19 1 5 117124 20220222125203
+45.87.9.15 1 1 5415 20220211162736
+45.87.9.173 1 1 5406 20220204044125
+45.227.32.177 0 3 8337 
+167.94.138.119 1 1 5407 20220207140301
+18.231.135.219 1 1 5411 20220206113844
+201.13.220.245 3 3 40751 20220201174716
+200.25.48.72 1 19 1906047 20220219213823
+161.22.56.18 2 36 3745913 20220217192355
+45.87.9.188 1 1 5399 20220201205439
+52.67.249.95 1 1 5407 20220205073155
+45.87.9.77 1 1 5404 20220205070247
+45.87.9.141 1 1 5405 20220210201611
+45.87.9.190 2 2 10799 20220203040952
+54.233.145.139 1 1 17893 20220203204319
+45.87.9.28 2 2 10811 20220209121801
+45.87.9.126 2 2 10816 20220206113847
+45.87.9.92 1 1 5413 20220207165205
+45.87.9.222 2 2 10820 20220209231639
+18.231.135.53 1 1 5412 20220205073152
+45.87.9.239 2 2 10805 20220202204119
+45.87.9.237 2 2 10826 20220210101304
+18.231.32.161 1 1 5415 20220210201612
+15.228.123.209 2 2 10806 20220204223915
+54.88.218.97 1 25 2230875 20220219223258
+15.229.30.167 1 1 5413 20220206202717
+45.87.9.124 3 3 16231 20220209012213
+194.38.25.102 1 1 17893 20220210201849
+92.118.160.61 1 1 17893 20220206214814
+45.87.9.30 2 2 10813 20220209012212
+18.231.151.75 1 1 5408 20220206012812
+100.26.52.66 2 8 715057 20220214195257
+15.228.23.239 2 2 10805 20220203123353
+18.206.34.84 1 25 2230871 20220219225133
+177.128.118.180 3 3 40751 20220220205721
+54.94.153.108 1 1 5414 20220203204315
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 28
+20220201 220 452 21583975 13
+20220202 25 76 6382702 10
+20220203 9 9 50460 8
+20220204 76 163 5295897 10
+20220205 8 8 32577 7
+20220206 10 10 68375 9
+20220207 9 33 2271636 8
+20220208 17 109 7990518 8
+20220209 12 40 2312938 8
+20220210 7 7 39658 6
+20220211 16 57 3418103 7
+20220212 2 2 128 1
+20220213 2 2 128 1
+20220214 6 12 726007 5
+20220215 2 2 128 1
+20220216 164 581 36247306 15
+20220217 62 164 13018969 14
+20220218 361 497 9279961 6
+20220219 78 169 9347430 8
+20220220 10 76 5023518 3
+20220221 26 71 3099904 7
+20220222 156 324 13759814 12
+20220223 21 69 4182262 4
+20220224 4 7 363071 3
+20220225 2 2 128 1
+20220226 507 517 7271203 2
+20220227 2 2 128 1
+20220228 40 76 1648222 6
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30s-2mn 10
+0s-30s 136
+1h+ 7
+5mn-15mn 14
+15mn-30mn 5
+30mn-1h 7
+2mn-5mn 5
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 206
+/login 303 1719293 132 107
+/produtos/getUnidadesMedida 185 43660 0 0
+/compraFiscal/salvarItem 179 30005 0 0
+/produtos/salvarProdutoDaNota 174 85302 0 0
+/graficos 91 2445113 2 0
+/graficos/faturamentoDosUltimosSeteDias 86 6663 0 8
+/produtos/autocomplete 63 2460777 0 0
+/configNF 58 4710597 0 1
+/contasPagar 32 1062632 0 1
+/vendas/importacao 26 1079504 0 0
+/cpanel 24 326018 17 19
+/payment/consulta/20315950640 23 209 0 0
+/cadastro 21 85840 0 1
+/fonts/fontawesome-webfont.woff2 20 1543200 0 1
+/produtos 19 584599 0 0
+/compraFiscal 17 326387 0 1
+/clientes 16 539954 0 0
+/payment 15 382598 0 1
+/anime/success.json 14 99385 0 1
+/vendas/nova 13 898845 0 1
+/servicos 13 255659 0 0
+/plano 12 92692 1 0
+/compraFiscal/new 12 1457136 0 0
+/agendamentos/all 12 24 0 2
+/agendamentos 12 328567 0 0
+/vendasEmCredito 4 78888 0 0
+/produtos/getProduto/328 1 725 0 0
+/.well-known/acme-challenge/TVYVCP596MZS9E54LR9TE-ALDIJUHAOF 1 64 0 1
+/.well-known/acme-challenge/OFN92_EDGZBGQ8ZVR1W8BZ6B290AJ5WT 1 64 0 1
+/produtos/new 4 136801 0 0
+/.well-known/acme-challenge/_4OKEE9DW254L8U4FXXIO8Q-O-MMDC48 1 64 1 0
+/compras 5 115686 0 0
+/vendas/atualizar 2 199 0 0
+/gruposCliente/new 2 39938 0 0
+/controleCozinha/buscar 1 2 0 0
+/naturezaOperacao 10 240667 0 0
+/agendamentos/filtro 4 752 0 0
+/.well-known/acme-challenge/HYDVME582SD1KCHDG69CED2NBM9SU7TE 1 64 0 1
+/.well-known/acme-challenge/VZVVBDDBDDDP__SOGYRRQ5T7B3W85MW4 1 64 1 0
+/clientes/consultaCadastrado/00.000.000_0000-00 3 6 0 0
+/.well-known/acme-challenge/R44IKEN0-1GF0RA-9LB7WNPQRFQK--G- 1 64 1 0
+/.well-known/acme-challenge/5-RV8UN1KLS_QUIRN3YG-YT2D7JNWWSM 1 64 0 1
+/payment/finish 4 84000 0 1
+/contaBancaria/new 3 232896 0 0
+/.well-known/acme-challenge/AJZ2M4YAP6-RTYWG4XH8T9AZMVZ_70T9 1 64 1 0
+/frenteCaixa 8 204625 0 0
+/divisaoGrade/new 3 60021 0 0
+/empresas 2 53372 0 0
+/estoque/pesquisa 2 45373 0 0
+/compraFiscal/salvarNfFiscal 7 1594 0 0
+/metronic/css/fonts/keenthemes-icons/Ki.woff 9 45024 0 1
+/devolucao 3 66865 0 1
+/fluxoCaixa 3 61982 0 0
+/.well-known/acme-challenge/IYREAOHUXSMPA6DA0NZ5DNMEVX043XK8 1 64 1 0
+/contasReceber 5 114219 0 0
+/transportadoras/new 1 75502 0 0
+/.well-known/acme-challenge/Z_2DKCVZDUQY030YPR9VHNS-RH3A76_H 1 64 1 0
+/.well-known/acme-challenge/YVJ4OCGMAQGHV2YL5TDURELQMFK_LXS_ 1 64 0 1
+/.well-known/acme-challenge/VYJJZ5YCYMTS_2M9HATNI381MZKF8C10 1 64 0 1
+/fornecedores/new 4 301721 0 0
+/nf/gerarNf 1 374 0 1
+/contasPagar/filtro 1 46526 0 1
+/devolucao/filtro 1 23179 0 0
+/clientes/all 2 11361 0 0
+/.well-known/acme-challenge/JJPN_X1CX18Z4MXJ2BA3T8T_Z4O2UK5T 1 64 0 1
+/clientes/verificaLimite 3 1329 0 0
+/ordemServico/new 2 37610 0 0
+/transportadoras 2 41787 0 0
+/cidades/findNome/PALMAS 1 112 0 0
+/marcas 4 80526 0 0
+http://sistema.clickcont.com/login 3 16229 3 3
+/relatorios 1 31023 0 0
+/.well-known/acme-challenge/RF8OEJ4D5Y7683YFEJ9B_BAFZB09YCF4 1 64 1 0
+/produtos/edit/726 2 65929 0 0
+/produtos/getProduto/167 1 727 0 0
+/.well-known/acme-challenge/ZO_61A9T231MVFO0K5H6L2AX_4RPAFO7 1 64 1 0
+/fluxoCaixa/relatorioIndex 1 1158 0 0
+/compras/emitirEntrada/4 1 21935 0 0
+/.well-known/acme-challenge/X75KXRCPXKGT6H3M0_JTT34Z69O31R9Z 1 64 1 0
+/contasPagar/new 5 116176 0 0
+/frenteCaixa/list 1 20827 0 0
+/remessasBoleto/boletosSemRemessa 1 20334 0 0
+/marcas/new 1 23740 0 0
+/funcionarios/comissao 2 39224 0 0
+/.well-known/acme-challenge/URF34Z2VCTE0YOKQAHNVQNCHYEH-WB97 1 64 0 1
+/.well-known/acme-challenge/2T0PY6TM9XD7DF5PYRF1SUCYK5G849L7 1 64 0 1
+/.well-known/acme-challenge/RZR23_-OZNS8W93YVX4K09C4O7F5HS9I 1 64 0 1
+/categorias/new 1 17191 0 0
+/.well-known/acme-challenge/HKK4ICKVEKOB_6NEODHH7D_T5_OPSWH1 1 64 1 0
+/.well-known/acme-challenge/JCMPO2RHEKIH0D79-VYF6PZDDDFSWHXM 1 64 1 0
+/agendamentos/servicos 3 57666 0 0
+/.well-known/acme-challenge/4N9BUIF5Q5QN6T24VFY7YY1ECPD5JWIG 1 64 0 1
+/configNF/certificado 2 37380 0 1
+/.well-known/acme-challenge/JJQF79INAZPANFX11-X8VULZ1LFA5_4H 1 64 0 1
+/naturezaOperacao/edit/6 2 34502 0 0
+/agendamentos/detalhes/1 3 57377 0 0
+/usuarios/edit/12 2 57825 0 0
+/listaDePrecos 4 77406 0 0
+/.well-known/acme-challenge/8I6596UYE1A2U78TFSXKCZVJ24TGEGQ3 1 64 1 0
+/fonts/fontawesome-webfont.woff 1 98024 0 0
+/funcionarios 4 83290 0 0
+/cotacao/listaPorReferencia 1 19932 0 0
+/cotacao 4 79524 0 0
+/vendasEmCredito/filtro 1 20516 0 0
+/empresas/detalhes/9 1 41186 0 0
+/.well-known/acme-challenge/ROBRTNXMTZ8O0VBL6K-POB3FLGFW1EFY 1 64 1 0
+/orcamentoVenda 3 64487 0 0
+/agendamentos/filtrarServicos 5 98683 0 0
+/.well-known/acme-challenge/MVTUOX0OXUIP0QRXNHV9PSSAK2YEP7PI 1 64 0 1
+/.well-known/acme-challenge/XEF95TXWY65Q0XGI1ZIBIDBZ27ND5Z2H 1 64 1 0
+/clientes/pesquisa 2 45361 0 0
+/vendas/rederizarDanfe/1 2 22085 0 1
+/403 1 2181 0 0
+/payment/20315950640 2 38862 0 0
+/.well-known/acme-challenge/5R41PQ5CX57O5-CCGJW791D63M34OS-X 1 64 1 0
+/aberturaCaixa/verificaHoje 6 28 0 0
+/.well-known/acme-challenge/T78A9YQ_EFD9ULFMJAA_GU3OJUF48LRI 1 64 0 1
+/configNF/teste 2 465 0 0
+/produtos/filtroCategoria 7 154484 0 0
+/listaDePrecos/new 1 20277 0 0
+/.well-known/acme-challenge/OLET2YL35ZKX33LZ4066CP7EZ-ARRSV9 1 64 1 0
+/.well-known/acme-challenge/HJ3CYGWM4GZ8B-1VTKK3IWCICI8RDRUA 1 64 1 0
+/servicos/new 6 116478 0 0
+/.well-known/acme-challenge/NGB37XJJ17-9Y9T9F10OAQ899BHZVCN5 1 64 0 1
+/.well-known/acme-challenge/XJZ84Q19MS0P3HFA55GY13ICZ_JU5RPT 1 64 0 1
+/clientes/consultaCadastrado/000.000.000-00 1 2 0 0
+/.well-known/acme-challenge/ZEKOD6PTSDFSGJVC2RJDGRP6LRUZACON 1 64 1 0
+/.well-known/acme-challenge/LACQLD0HOAESIO08FANRR45EEAJKHC15 1 64 0 1
+/produtos/getProduto/162 2 1444 0 0
+/categoriasServico 8 147620 0 0
+/agendamentos/irParaFrenteCaixa/1 1 101 0 0
+/cotacao/new 1 21017 0 0
+/ordemServico/filtro 1 18391 0 0
+/.well-known/acme-challenge/-QLK6N0GTFG-KKG7TWN18UU294J52Q_5 1 64 0 1
+/categoriasServico/new 3 57229 0 0
+/controleCozinha/controle 1 19740 0 0
+/.well-known/acme-challenge/2X9U9_CLIVZI_48QUHER0CDZIKLKQFS8 1 64 0 1
+/estoque 3 57455 0 0
+/.well-known/acme-challenge/EVZ8BTFICBE1J0J92A8RG2YNJR36XO9K 1 64 1 0
+/.well-known/acme-challenge/J-376VM9TNKKUG9OS21-U8UTBC_4SRSF 1 64 1 0
+/divisaoGrade 4 81448 0 0
+/.well-known/acme-challenge/PI-XPP1DQFF5TNTH-OTM75DHOWY3YU5G 1 64 0 1
+/estoque/apontamentoProducao 2 41098 0 0
+/tributos 9 159268 0 0
+/.well-known/acme-challenge/RVA63ECKM6AK50_YEMJSEMY5XGQMOJZY 1 64 1 0
+/subcategorias/quickSave 1 107 0 0
+/mesas 1 19639 0 0
+/categorias 7 128502 0 0
+/.well-known/acme-challenge/EI255H_QCTOLLXZDX76ZCJA8D3PT6LMN 1 64 0 1
+/escritorio 1 17491 0 0
+/enviarXml 1 16973 0 0
+/fornecedores 3 60261 0 0
+/.well-known/acme-challenge/0TQE8V104RQHZ4XO2NAP8HI_3AR070TA 1 64 0 1
+/compras/pesquisa 1 20099 0 0
+/.well-known/acme-challenge/EAUK-624M89SAPB_VYJZLB38A2I3ISE4 1 64 0 1
+/.well-known/acme-challenge/OJ9IKS7ZB1E8D9IRG4ZQC_NGXYC-M-1X 1 64 1 0
+/.well-known/acme-challenge/4TUV9XIOJPGBUBEBZ1ZJ23IE721H950X 1 64 1 0
+/.well-known/acme-challenge/77MS2QCKMB5NK77XX6VQ5RPYF6_BR7CN 1 64 0 1
+/.well-known/acme-challenge/G0AWLHLZEV-35MXPJQ8TOGG57ZX2W4-F 1 64 1 0
+/produtos/getProduto/283 3 2139 0 0
+/produtos/naoComposto 4 14821 0 0
+/.well-known/acme-challenge/KNEHX0F_P_N9263ZG80__EJF5ZXUTOWO 1 64 1 0
+/deliveryComplemento 1 19639 0 0
+/vendas/salvar 1 2 0 0
+/caixa 6 143823 0 0
+/ordemServico 3 54975 0 0
+/fornecedores/consultaCadastrado/000.000.000-00 1 2 0 0
+/.well-known/acme-challenge/E3A6MEEU42I8XQER7H0DBJUYSB34C6JP 1 64 0 1
+/produtos/autocompleteProduto 4 2935 0 0
+/acessores/new 1 78231 0 0
+/dfe/novaConsulta 12 211613 0 0
+/contasReceber/new 1 20739 0 0
+/dfe 6 124792 0 0
+/contaBancaria 3 60744 0 0
+/naturezaOperacao/new 5 89054 0 0
+/compras/consultar 1 319 0 0
+/_ignition/health-check 1 29 0 0
+/fornecedores/all 4 417 0 0
+/usuarios 3 56542 0 0
+/vendas/edit/138 3 111386 0 0
+/listaDePrecos/pesquisa 1 20080 0 0
+/clientes/consultaCadastrado/590.191.581-04 1 2 0 0
+/.well-known/acme-challenge/AZC-PW2QA0O9DPB8_62T44NJS57GUUQ0 1 64 0 1
+/dfe/filtro 6 116440 0 0
+/produtos/all 6 75003 0 0
+/anime/success-upload.json 1 16939 0 0
+/vendas 9 248629 0 0
+/veiculos 1 20320 0 0
+/.well-known/acme-challenge/5E6XCEGRGZT2HP3EGJGM4I4K6V4G0ULI 1 64 0 1
+/categoriasConta 2 39522 0 0
+/graficos/faturamentoFiltrado 1 75 0 0
+/clientes/new 6 825494 0 2
+/gruposCliente 4 79354 0 0
+/clientes/consultaCadastrado/038.502.021-00 1 2 0 0
+/.well-known/acme-challenge/KZ_U2C91IUBCM-V_AW2SAZRRR1RIEG27 1 64 1 0
+/.well-known/acme-challenge/RE84UO8O2IP23W4R6YU60AAV4LK8TOPB 1 64 0 1
+/.well-known/acme-challenge/HWPE6YONH5Q5WP2KZHWD7YK-XSGV6MO6 1 64 1 0
+/funcionarios/new 1 19631 0 0
+/compras/detalhes/3 2 36718 0 0
+/acessores 1 20322 0 0
+/agendamentos/save 1 52 1 0
+/.well-known/acme-challenge/I-B5JGX489QU0CGPWI5I72ENRE47U3OS 1 64 1 0
+/compraManual 4 333265 0 0
+/produtos/getProduto/280 1 710 0 0
+/aberturaCaixa/abrir 2 276 0 0
+/remessasBoleto 1 19571 0 0
+END_SIDER

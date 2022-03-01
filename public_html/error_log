@@ -1,0 +1,48 @@
+[31-Jan-2022 15:54:25 America/Sao_Paulo] {"message":"unknown_error","error":"","status":400,"cause":[]}
+[31-Jan-2022 16:22:31 America/Sao_Paulo] {"message":"invalid_token","error":"not_found","status":401,"cause":[]}
+[31-Jan-2022 16:43:47 America/Sao_Paulo] {"message":"invalid_token","error":"not_found","status":401,"cause":[]}
+[31-Jan-2022 16:46:17 America/Sao_Paulo] {"message":"invalid_token","error":"not_found","status":401,"cause":[]}
+[02-Feb-2022 11:57:14 America/Sao_Paulo] {"message":"invalid_token","error":"not_found","status":401,"cause":[]}
+[02-Feb-2022 12:05:26 America/Sao_Paulo] {"message":"invalid_token","error":"not_found","status":401,"cause":[]}
+[02-Feb-2022 19:15:43 America/Sao_Paulo] {"message":"invalid_token","error":"not_found","status":401,"cause":[]}
+[02-Feb-2022 19:58:34 America/Sao_Paulo] {"message":"invalid_token","error":"not_found","status":401,"cause":[]}
+[02-Feb-2022 20:43:03 America/Sao_Paulo] {"message":"invalid_token","error":"not_found","status":401,"cause":[]}
+[02-Feb-2022 20:43:54 America/Sao_Paulo] {"message":"invalid_token","error":"not_found","status":401,"cause":[]}
+[02-Feb-2022 20:50:09 America/Sao_Paulo] {"message":"invalid_token","error":"not_found","status":401,"cause":[]}
+[02-Feb-2022 20:51:01 America/Sao_Paulo] {"message":"The User ID must match the consultant's","error":"forbidden","status":403,"cause":[]}
+[02-Feb-2022 20:52:20 America/Sao_Paulo] {"message":"invalid_token","error":"not_found","status":401,"cause":[]}
+[02-Feb-2022 20:53:32 America/Sao_Paulo] {"message":"invalid_token","error":"not_found","status":401,"cause":[]}
+[02-Feb-2022 21:05:52 America/Sao_Paulo] {"message":"The customer can't be equal to the collector.","error":"bad_request","status":400,"cause":[{"code":2060,"description":"The customer can't be equal to the collector.","data":"03-02-2022T00:05:52UTC;02bacd2d-1990-426b-9051-d77f643c7721"}]}
+[02-Feb-2022 21:13:32 America/Sao_Paulo] {"message":"invalid_token","error":"not_found","status":401,"cause":[]}
+[02-Feb-2022 21:14:34 America/Sao_Paulo] {"message":"The customer can't be equal to the collector.","error":"bad_request","status":400,"cause":[{"code":2060,"description":"The customer can't be equal to the collector.","data":"03-02-2022T00:14:34UTC;25082267-f9c5-4324-8df3-5e05fd19c492"}]}
+[02-Feb-2022 21:16:54 America/Sao_Paulo] {"message":"The customer can't be equal to the collector.","error":"bad_request","status":400,"cause":[{"code":2060,"description":"The customer can't be equal to the collector.","data":"03-02-2022T00:16:54UTC;76cfa305-8d34-4ccd-afc8-4dcde9c28360"}]}
+[02-Feb-2022 21:17:13 America/Sao_Paulo] {"message":"The customer can't be equal to the collector.","error":"bad_request","status":400,"cause":[{"code":2060,"description":"The customer can't be equal to the collector.","data":"03-02-2022T00:17:13UTC;b43b00ca-cb31-475f-afbd-a041ef77d2ad"}]}
+[02-Feb-2022 21:17:25 America/Sao_Paulo] {"message":"The customer can't be equal to the collector.","error":"bad_request","status":400,"cause":[{"code":2060,"description":"The customer can't be equal to the collector.","data":"03-02-2022T00:17:25UTC;22437af2-164e-4313-adfe-fd6b31035d68"}]}
+[02-Feb-2022 21:17:38 America/Sao_Paulo] {"message":"The customer can't be equal to the collector.","error":"bad_request","status":400,"cause":[{"code":2060,"description":"The customer can't be equal to the collector.","data":"03-02-2022T00:17:38UTC;fe401abc-e67d-4ce7-a156-f625bd112fec"}]}
+[02-Feb-2022 21:18:25 America/Sao_Paulo] {"message":"invalid_token","error":"not_found","status":401,"cause":[]}
+[02-Feb-2022 21:26:10 America/Sao_Paulo] {"message":"The User ID must match the consultant's","error":"forbidden","status":403,"cause":[]}
+[03-Feb-2022 08:41:45 America/Sao_Paulo] {"message":"invalid_token","error":"not_found","status":401,"cause":[]}
+[03-Feb-2022 08:44:04 America/Sao_Paulo] {"message":"invalid_token","error":"not_found","status":401,"cause":[]}
+[03-Feb-2022 08:45:16 America/Sao_Paulo] {"message":"The customer can't be equal to the collector.","error":"bad_request","status":400,"cause":[{"code":2060,"description":"The customer can't be equal to the collector.","data":"03-02-2022T11:45:16UTC;8f58eb9f-106d-4a81-bd53-f122db4849e2"}]}
+[03-Feb-2022 08:45:43 America/Sao_Paulo] {"message":"The customer can't be equal to the collector.","error":"bad_request","status":400,"cause":[{"code":2060,"description":"The customer can't be equal to the collector.","data":"03-02-2022T11:45:43UTC;319c81be-7f48-4141-a634-8009eed03528"}]}
+[03-Feb-2022 08:46:46 America/Sao_Paulo] {"message":"The customer can't be equal to the collector.","error":"bad_request","status":400,"cause":[{"code":2060,"description":"The customer can't be equal to the collector.","data":"03-02-2022T11:46:46UTC;6797a7c9-6f10-4467-aaf6-e491f46e0cfd"}]}
+[03-Feb-2022 08:47:16 America/Sao_Paulo] {"message":"invalid_token","error":"not_found","status":401,"cause":[]}
+[03-Feb-2022 08:48:28 America/Sao_Paulo] {"message":"invalid_token","error":"not_found","status":401,"cause":[]}
+[03-Feb-2022 18:00:12 America/Sao_Paulo] {"message":"invalid_token","error":"not_found","status":401,"cause":[]}
+[04-Feb-2022 11:25:56 America/Sao_Paulo] {"message":"invalid_token","error":"not_found","status":401,"cause":[]}
+[04-Feb-2022 13:58:35 America/Sao_Paulo] {"message":"Collector user without key enabled for QR render","error":"bad_request","status":400,"cause":[{"code":13253,"description":"Collector user without key enabled for QR render","data":"04-02-2022T16:58:35UTC;01346746-c67b-4dbd-9657-0fe8ccc6d57b"}]}
+[04-Feb-2022 16:40:18 America/Sao_Paulo] {"message":"Collector user without key enabled for QR render","error":"bad_request","status":400,"cause":[{"code":13253,"description":"Collector user without key enabled for QR render","data":"04-02-2022T19:40:18UTC;d86ccb78-eb35-4fc9-87c0-a05e445d9396"}]}
+[04-Feb-2022 16:41:58 America/Sao_Paulo] {"message":"Collector user without key enabled for QR render","error":"bad_request","status":400,"cause":[{"code":13253,"description":"Collector user without key enabled for QR render","data":"04-02-2022T19:41:58UTC;31a017b5-70c0-4e0e-8f85-4509f6d02f72"}]}
+[04-Feb-2022 16:42:22 America/Sao_Paulo] {"message":"Collector user without key enabled for QR render","error":"bad_request","status":400,"cause":[{"code":13253,"description":"Collector user without key enabled for QR render","data":"04-02-2022T19:42:22UTC;911c8e6a-9c31-4ec2-8b43-2c5eca46b8dd"}]}
+[04-Feb-2022 16:43:06 America/Sao_Paulo] {"message":"Collector user without key enabled for QR render","error":"bad_request","status":400,"cause":[{"code":13253,"description":"Collector user without key enabled for QR render","data":"04-02-2022T19:43:06UTC;08d45e5b-4583-4355-a548-7be7f4fe64c9"}]}
+[09-Feb-2022 16:22:44 America/Sao_Paulo] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home4/sistemaclickcont/vendor/dompdf/dompdf/src/Css/Style.php on line 884
+[09-Feb-2022 16:22:44 America/Sao_Paulo] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32768 bytes) in /home4/sistemaclickcont/vendor/symfony/error-handler/Error/FatalError.php on line 1
+[09-Feb-2022 16:24:02 America/Sao_Paulo] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home4/sistemaclickcont/vendor/dompdf/dompdf/src/Css/Style.php on line 884
+[09-Feb-2022 16:24:02 America/Sao_Paulo] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32768 bytes) in /home4/sistemaclickcont/vendor/symfony/error-handler/Error/FatalError.php on line 1
+[14-Feb-2022 16:44:17 America/Sao_Paulo] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home4/sistemaclickcont/vendor/dompdf/dompdf/src/Frame/FrameTree.php on line 245
+[14-Feb-2022 16:44:48 America/Sao_Paulo] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home4/sistemaclickcont/vendor/dompdf/dompdf/src/Css/Style.php on line 787
+[14-Feb-2022 16:44:48 America/Sao_Paulo] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32768 bytes) in /home4/sistemaclickcont/vendor/symfony/error-handler/Error/FatalError.php on line 1
+[21-Feb-2022 15:38:31 America/Sao_Paulo] 
+[01-Mar-2022 12:44:11 America/Sao_Paulo] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home4/sistemaclickcont/vendor/dompdf/dompdf/src/Dompdf.php on line 576
+[01-Mar-2022 12:45:16 America/Sao_Paulo] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home4/sistemaclickcont/vendor/dompdf/dompdf/src/Dompdf.php on line 576
+[01-Mar-2022 12:46:48 America/Sao_Paulo] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home4/sistemaclickcont/vendor/dompdf/dompdf/src/Dompdf.php on line 576

@@ -1,0 +1,51 @@
+--- 
+files: 
+  certificate: 
+    www_sistema_clickcont_com_f0f70_906d5_1650657374_9a9aa78d9cff7088d8ca8d139566bdf1: 
+      created: '1642884976'
+      domains: 
+        - sistema.clickcont.com
+        - www.sistema.clickcont.com
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Cert for “sistema.clickcont.com”
+      id: www_sistema_clickcont_com_f0f70_906d5_1650657374_9a9aa78d9cff7088d8ca8d139566bdf1
+      is_self_signed: 0
+      issuer.commonName: R3
+      issuer.organizationName: Let's Encrypt
+      key_algorithm: rsaEncryption
+      modulus: f0f706ef380e79d17e949f6bd33ad72f314cf88320a11b4ff3f7e73813cb9a65b1d0e3e25faa4c1ecbd92dcb82d3a61c4a3ba53aaef557c0f3ba2b4fa477a365899d138a98f16be16772efa4040803df3db55cf9125760b569ad04e9052263d440231e398e1270fd71185c53d60a8be06a870c19c9e3738bb9d81058bb9b67ed85c0d0194a2a148a2507b8e10bade08e0aac5612adab0416afbdd33863865e9023e339b9235e0cf661c4257d72d9780dbcf3a56bc81bf370274274a67bbf040f47ff37ca27394969c535bac6b5bfdfef7f0f36713d0a9f19fdb9b5657edfa7144d26d7d5434035d32a75693b324be41f8ae3c846605d3e665e82ac5469f906d5
+      modulus_length: 2048
+      not_after: '1650657374'
+      not_before: '1642881375'
+      serial: 03e9c2ffc9401bde271363e14e95d07c8179
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: www.sistema.clickcont.com
+      validation_type: dv
+  key: 
+    f0f70_906d5_0088c2ea6c693bfe17439243be61e173: 
+      created: '1642884976'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Key for “sistema.clickcont.com”
+      id: f0f70_906d5_0088c2ea6c693bfe17439243be61e173
+      key_algorithm: rsaEncryption
+      modulus: f0f706ef380e79d17e949f6bd33ad72f314cf88320a11b4ff3f7e73813cb9a65b1d0e3e25faa4c1ecbd92dcb82d3a61c4a3ba53aaef557c0f3ba2b4fa477a365899d138a98f16be16772efa4040803df3db55cf9125760b569ad04e9052263d440231e398e1270fd71185c53d60a8be06a870c19c9e3738bb9d81058bb9b67ed85c0d0194a2a148a2507b8e10bade08e0aac5612adab0416afbdd33863865e9023e339b9235e0cf661c4257d72d9780dbcf3a56bc81bf370274274a67bbf040f47ff37ca27394969c535bac6b5bfdfef7f0f36713d0a9f19fdb9b5657edfa7144d26d7d5434035d32a75693b324be41f8ae3c846605d3e665e82ac5469f906d5
+      modulus_length: 2048
+indexes: 
+  certificate: 
+    modulus: 
+      f0f706ef380e79d17e949f6bd33ad72f314cf88320a11b4ff3f7e73813cb9a65b1d0e3e25faa4c1ecbd92dcb82d3a61c4a3ba53aaef557c0f3ba2b4fa477a365899d138a98f16be16772efa4040803df3db55cf9125760b569ad04e9052263d440231e398e1270fd71185c53d60a8be06a870c19c9e3738bb9d81058bb9b67ed85c0d0194a2a148a2507b8e10bade08e0aac5612adab0416afbdd33863865e9023e339b9235e0cf661c4257d72d9780dbcf3a56bc81bf370274274a67bbf040f47ff37ca27394969c535bac6b5bfdfef7f0f36713d0a9f19fdb9b5657edfa7144d26d7d5434035d32a75693b324be41f8ae3c846605d3e665e82ac5469f906d5: 
+        www_sistema_clickcont_com_f0f70_906d5_1650657374_9a9aa78d9cff7088d8ca8d139566bdf1: ~
+    subject.commonName: 
+      www.sistema.clickcont.com: 
+        www_sistema_clickcont_com_f0f70_906d5_1650657374_9a9aa78d9cff7088d8ca8d139566bdf1: ~
+uniques: 
+  certificate: 
+    friendly_name: 
+      Cert for “sistema.clickcont.com”: www_sistema_clickcont_com_f0f70_906d5_1650657374_9a9aa78d9cff7088d8ca8d139566bdf1
+  key: 
+    friendly_name: 
+      Key for “sistema.clickcont.com”: f0f70_906d5_0088c2ea6c693bfe17439243be61e173
+    modulus:ecdsa_curve_name:ecdsa_public: 
+      f0f706ef380e79d17e949f6bd33ad72f314cf88320a11b4ff3f7e73813cb9a65b1d0e3e25faa4c1ecbd92dcb82d3a61c4a3ba53aaef557c0f3ba2b4fa477a365899d138a98f16be16772efa4040803df3db55cf9125760b569ad04e9052263d440231e398e1270fd71185c53d60a8be06a870c19c9e3738bb9d81058bb9b67ed85c0d0194a2a148a2507b8e10bade08e0aac5612adab0416afbdd33863865e9023e339b9235e0cf661c4257d72d9780dbcf3a56bc81bf370274274a67bbf040f47ff37ca27394969c535bac6b5bfdfef7f0f36713d0a9f19fdb9b5657edfa7144d26d7d5434035d32a75693b324be41f8ae3c846605d3e665e82ac5469f906d5: f0f70_906d5_0088c2ea6c693bfe17439243be61e173

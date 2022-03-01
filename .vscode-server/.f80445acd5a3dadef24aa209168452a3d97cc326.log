@@ -1,0 +1,13 @@
+node[109]: pthread_create: Resource temporarily unavailable
+
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+Extension host agent listening on 23467
+
+/home4/sistemaclickcont/.vscode-server/bin/f80445acd5a3dadef24aa209168452a3d97cc326/bin/code-server: line 12:   109 Aborted                 "$ROOT/node" ${INSPECT:-} "$ROOT/out/server-main.js" "$@"

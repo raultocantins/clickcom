@@ -1,0 +1,405 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202201 will be lost/reset.
+# Last config file used to build this data file was /home4/sistemaclickcont/tmp/awstats/awstats.sistema.clickcont.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2027                
+POS_TIME 2709                
+POS_VISITOR 8372                
+POS_DAY 10526               
+POS_DOMAIN 3400                
+POS_LOGIN 3707                
+POS_ROBOT 3862                
+POS_WORMS 4024                
+POS_EMAILSENDER 4155                
+POS_EMAILRECEIVER 4298                
+POS_SESSION 10834               
+POS_SIDER 11034               
+POS_FILETYPES 4433                
+POS_DOWNLOADS 4628                
+POS_OS 4738                
+POS_BROWSER 4893                
+POS_SCREENSIZE 5158                
+POS_UNKNOWNREFERER 5232                
+POS_UNKNOWNREFERERBROWSER 5424                
+POS_ORIGIN 5611                
+POS_SEREFERRALS 5748                
+POS_PAGEREFS 5892                
+POS_SEARCHWORDS 6069                
+POS_KEYWORDS 6221                
+POS_MISC 2373                
+POS_ERRORS 6280                
+POS_CLUSTER 3563                
+POS_SIDER_404 6431                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20220201024855 204 55341 11511958941146
+FirstTime 20220122175613
+LastTime 20220131213403
+LastUpdate 20220201101418 204 0 203 0 0
+TotalVisits 103                 
+TotalUnique 54                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 54                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 7 0
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 6 6 57337 6 6 1598
+1 3 3 28662 3 3 807
+2 20 20 11947 2 2 409
+3 7 32 2257058 8 8 1656
+4 2 2 10790 2 2 409
+5 4 4 21589 4 4 818
+6 0 0 0 0 0 0
+7 4 4 21590 4 4 818
+8 4 105 8894835 13 17 37386
+9 22 120 8643028 27 33 59779
+10 0 0 0 0 0 0
+11 13 64 4548446 12 13 2448
+12 2 37 3731536 1 2 227
+13 8 8 43167 8 8 1636
+14 1 1 17866 1 1 382
+15 5 30 2246390 6 7 242468
+16 6 57 4518736 15 20 271529
+17 5 5 128 3 3 29274
+18 8 9 67486 6 7 3637
+19 28 106 9110921 17 23 15332
+20 7 43 2596513 5 5 1020
+21 10 49 4280314 10 11 9645
+22 44 112 5521688 12 18 14534
+23 1 26 2207032 1 1 203
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 6
+br 92 574 46178238
+us 91 166 6996310
+in 14 53 2719393
+ma 9 46 2573702
+ru 2 2 35750
+gr 2 2 35732
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 1
+unknown 1 24 20220129125931 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+woff2 7 540120 0 0
+js 307 41074108 0 0
+css 255 8513181 0 0
+html 3 0 0 0
+woff 1 5628 0 0
+Unknown 199 1857809 0 0
+png 71 6250345 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 2
+/notificacao/s1.mp3 0 7 150464
+/notificacao/s2.mp3 0 7 147470
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 6
+ios_iphone 100 6
+win10 399 75
+linuxandroid 26 1
+Unknown 25 25
+linux 239 35
+ios_ipad 68 68
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 10
+safari15.1 100 6
+Unknown 25 25
+firefox96.0 57 16
+chrome76.0.3809.71 52 2
+safari11.0 68 68
+opera82.0.4227.58 33 8
+chrome96.0.4664.45 239 35
+chrome92.0.4515.159 26 1
+chrome97.0.4692.99 231 48
+chrome97.0.4692.87 26 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+Go_http_package 20220130142357
+WhatsApp/2.22.3.71_A 20220129125939
+Cpanel-HTTP-Client/1.0 20220131024804
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+Go_http_package 20220130142357
+WhatsApp/2.22.3.71_A 20220129125939
+Cpanel-HTTP-Client/1.0 20220131024804
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 134 181
+From1 0 0
+From2 0 0
+From3 2 2
+From4 74 674
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://162.241.203.26:80 2 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+302 121 25631
+403 3 29274
+500 2 482814
+206 2 10792
+406 1 226
+404 61 147254
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 20
+/metronic/css/fonts/line-awesome/la-brands-400.ttf 4 http://sistema.clickcont.com/graficos
+/imgs_planos/2d9eb8e64bbdd27176788b8c92e03144.png 2 http://sistema.clickcont.com/plano
+/metronic/css/fonts/line-awesome/la-regular-400.ttf 4 http://sistema.clickcont.com/graficos
+/metronic/css/fonts/line-awesome/la-brands-400.woff 4 http://sistema.clickcont.com/graficos
+/metronic/css/fonts/line-awesome/la-regular-400.woff2 4 http://sistema.clickcont.com/graficos
+/metronic/css/fonts/line-awesome/la-brands-400.woff2 4 http://sistema.clickcont.com/graficos
+/metronic/css/fonts/line-awesome/la-solid-900.svg 4 http://sistema.clickcont.com/graficos
+/imgs/logo.png 1 http://sistema.clickcont.com/configNF
+/metronic/css/fonts/line-awesome/la-brands-400.svg 4 http://sistema.clickcont.com/graficos
+/../../imgs/slym.png 2 -
+/metronic/css/fonts/line-awesome/la-solid-900.woff 4 http://sistema.clickcont.com/graficos
+/imgs_planos/130b469c1a6c02edc4c52dd75e36d2b6.png 2 http://sistema.clickcont.com/plano
+/imgs_planos/c4c4489e7330fbf7b9d2a5c76734ca3a.png 1 http://sistema.clickcont.com/plano
+/metronic/css/fonts/line-awesome/la-regular-400.woff 4 http://sistema.clickcont.com/graficos
+/404.html 1 -
+/metronic/css/fonts/line-awesome/la-solid-900.ttf 4 http://sistema.clickcont.com/graficos
+/imgs_planos/590daa9a8222b03bc0b2bba775ea4705.jpeg 2 http://sistema.clickcont.com/plano
+/imgs_planos/561ed5956607b9f84282328b4c21c64e.png 2 http://sistema.clickcont.com/plano
+/metronic/css/fonts/line-awesome/la-regular-400.svg 4 http://sistema.clickcont.com/graficos
+/metronic/css/fonts/line-awesome/la-solid-900.woff2 4 http://sistema.clickcont.com/graficos
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 54
+179.255.16.41 34 103 5428852 20220123221544
+162.241.203.26 22 22 1408 20220131024804
+161.22.58.251 15 102 8171049 20220123091923
+45.179.238.113 14 55 2719393 20220131200030
+161.22.57.247 11 75 5992737 20220122225501
+45.235.45.16 9 48 2573702 20220123183344
+161.22.56.238 8 49 4219863 20220131213403
+45.87.9.254 7 7 37780 20220130034601
+201.13.220.245 7 32 2265438 20220131112527
+45.87.9.45 6 6 32384 20220130114339
+201.7.4.48 4 54 4460284 20220127160007
+45.87.9.175 4 4 21599 20220129051311
+187.25.32.94 4 46 2558103 20220123090121
+45.87.9.252 4 4 21578 20220131113508
+186.213.35.1 4 55 4491703 20220131113345
+45.87.9.207 3 3 16186 20220127130952
+45.87.9.28 3 3 16189 20220131113507
+45.87.9.190 3 3 16181 20220131193642
+45.87.9.124 3 3 16187 20220128092905
+45.87.9.60 3 3 16191 20220125042257
+161.22.63.10 3 40 6320534 20220129190318
+45.87.9.77 3 3 16190 20220131033217
+45.87.9.222 2 2 10789 20220128022457
+18.231.136.159 2 2 10790 20220123112007
+45.87.9.30 2 2 10792 20220130193604
+45.87.9.205 1 1 5394 20220126131657
+45.87.9.94 1 1 5399 20220127011403
+94.139.234.125 1 1 17875 20220123001440
+45.87.9.239 1 1 5394 20220130114339
+15.228.155.117 1 1 5395 20220124031341
+45.87.9.173 1 1 5393 20220125042256
+92.118.160.61 1 1 17866 20220130142357
+15.228.146.33 1 1 5394 20220131193642
+152.244.74.34 1 1 13584 20220122180453
+187.25.35.62 1 27 2256091 20220131165038
+15.229.17.94 1 1 5399 20220126072535
+15.228.17.87 1 1 5396 20220125181757
+54.94.120.140 1 1 5395 20220127130952
+34.91.59.8 1 26 2207030 20220123081336
+45.87.9.158 1 1 5397 20220123160452
+18.231.153.36 1 1 5395 20220129131919
+92.118.160.1 1 1 17866 20220130010725
+18.231.127.232 1 1 5404 20220127194302
+45.87.9.141 1 1 5400 20220123112006
+45.87.9.111 1 1 5397 20220130193604
+18.231.126.49 1 1 5396 20220123050857
+15.228.85.65 1 1 5398 20220124130947
+15.228.184.113 1 1 5397 20220126072535
+185.73.218.17 1 1 17875 20220123001438
+45.87.9.92 1 1 5394 20220125110414
+54.233.203.205 1 1 5396 20220126001801
+45.87.9.126 1 1 5396 20220127073911
+65.154.226.165 2 52 4431716 20220124033824
+18.231.145.226 1 1 5391 20220125181757
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 10
+20220122 21 146 10793851 7
+20220123 73 289 18646965 17
+20220124 11 36 2267984 10
+20220125 8 8 32490 7
+20220126 10 10 43297 9
+20220127 14 64 4503587 10
+20220128 10 10 43310 9
+20220129 16 53 6380209 11
+20220130 10 10 68234 9
+20220131 37 217 16057132 14
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+30s-2mn 4
+15mn-30mn 1
+30mn-1h 1
+0s-30s 92
+5mn-15mn 2
+2mn-5mn 3
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 53
+/login 116 665798 89 83
+/graficos 9 239985 0 0
+/graficos/faturamentoDosUltimosSeteDias 9 684 0 2
+/fonts/fontawesome-webfont.woff2 7 540120 0 1
+/categorias 5 93179 0 0
+/pedidosEcommerce 4 92246 0 0
+/cpanel 4 54336 2 3
+/produtos 3 56946 0 0
+/plano 3 19153 0 1
+/cadastro 3 10111 0 0
+/ 3 0 1 1
+/contasPagar 2 41695 0 0
+/clientes 2 37674 0 0
+/.well-known/acme-challenge/424XGTV1L0DJ8EL8U49ENRMKIW3UTQ64 1 64 1 0
+/.well-known/acme-challenge/W47F5WFZGAQNKHNFBVHEJ08EIGGZCYV7 1 64 0 1
+/empresas 1 23407 0 0
+/.well-known/acme-challenge/_1O-5KAJW2H2YLA665MO-0QCQFBG9COZ 1 64 0 1
+/.well-known/acme-challenge/_97N-Z8F85B4-26Q4F1VKXF6Y_U4VG5F 1 64 0 1
+/.well-known/acme-challenge/XWOJ6FX-_CJ-PULCZX1X-OBE11QEF2JQ 1 64 0 1
+/tributos 1 18705 0 0
+/.well-known/acme-challenge/V-62F-M3I_B837RWGSCLWL03EEPYKQ81 1 64 0 1
+/.well-known/acme-challenge/O7QL0UQLRPOTNEZ21CNK9__-80V_SF00 1 64 0 1
+/configNF 1 79456 0 0
+/contasReceber 1 19844 0 0
+/.well-known/acme-challenge/UBOBXWN_VK-J7LT6CV3CGH94O_C6A-0H 1 64 0 1
+/marcas 1 17367 0 0
+/metronic/css/fonts/keenthemes-icons/Ki.woff 1 5628 0 0
+/fluxoCaixa 1 26541 0 0
+/.well-known/acme-challenge/AGOT63Q9_F0ZHYJZV78QYMZCGB9D5VQR 1 64 1 0
+/.well-known/acme-challenge/O9CFQAFC83FFVVT1I3M7WO9I-D6UC4S0 1 64 1 0
+/naturezaOperacao 1 17976 0 0
+/.well-known/acme-challenge/PQ6IURLPDTAKCEDL6BNZJKI9IGNP0-X3 1 64 0 1
+/estoque/apontamentoProducao 1 18292 0 0
+/.well-known/acme-challenge/IJ3KNA7ATR7A8NXXQ7B7SI7200SQ0GC3 1 64 1 0
+/.well-known/acme-challenge/ZU6H8-78WDJAKEGSAP_BL87G2UE5DXL8 1 64 1 0
+/.well-known/acme-challenge/A0189YNR_ZUDWC2RVH25SH1Z4W-Z-3CH 1 64 1 0
+/.well-known/acme-challenge/QKVP7NY5_C_8HVFC_366ASYBKMV2K-U2 1 64 1 0
+/.well-known/acme-challenge/2_C_O6F15JOZ5JSGUHX37VG3KHUIGXN4 1 64 1 0
+/.well-known/acme-challenge/71HMRMF8Q_BYN8OTEH-X1ZVVIBNN6Q9C 1 64 0 1
+/compras 1 18173 0 0
+/.well-known/acme-challenge/MQM1D680XFOEQOBS6N73H1J4DY1OGL4X 1 64 0 1
+/enviarXml 1 17867 0 1
+/clientes/importacao 1 17978 0 0
+/empresas/nova 1 36946 0 0
+/estoque 1 18528 0 0
+/.well-known/acme-challenge/V4DLYNF2IWJMIB7ZVLO262G4X93R7F06 1 64 0 1
+/clientes/new 1 136080 0 0
+/categorias/new 1 22199 0 0
+/.well-known/acme-challenge/YXJB-3KSAOCH93GCNZ8CWUXZYC7OMBII 1 64 1 0
+/.well-known/acme-challenge/MYQ-YURMITFSXU9F38PJ7HCY2YPN7G7H 1 64 1 0
+/.well-known/acme-challenge/HL9A0MJ7G2IXZGIV5ET0N0QZRC6-RB5_ 1 64 1 0
+/empresas/detalhes/3 1 37427 0 0
+/frenteCaixa 1 17808 0 0
+END_SIDER

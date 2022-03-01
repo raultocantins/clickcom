@@ -1,0 +1,20 @@
+[2022-03-01 10:17:59.312] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2022-03-01 10:17:59.313] [remoteagent] [info] Extension host agent started.
+[2022-03-01 10:17:59.360] [remoteagent] [error] ptyHost terminated unexpectedly with code null
+[2022-03-01 10:17:59.441] [remoteagent] [error] ptyHost terminated unexpectedly with code null
+[2022-03-01 10:17:59.540] [remoteagent] [error] ptyHost terminated unexpectedly with code null
+[2022-03-01 10:17:59.617] [remoteagent] [error] ptyHost terminated unexpectedly with code null
+[2022-03-01 10:17:59.721] [remoteagent] [error] ptyHost terminated unexpectedly with code null
+[2022-03-01 10:17:59.799] [remoteagent] [error] ptyHost terminated unexpectedly with code null
+[2022-03-01 10:17:59.901] [remoteagent] [error] ptyHost terminated unexpectedly with code null, giving up
+[2022-03-01 10:18:05.836] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-03-01 10:18:10.846] [remoteagent] [error] No ptyHost heartbeat after 12 seconds

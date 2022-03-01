@@ -1,0 +1,422 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202201 will be lost/reset.
+# Last config file used to build this data file was /home4/sistemaclickcont/tmp/awstats/ssl/awstats.sistema.clickcont.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2031                
+POS_TIME 2714                
+POS_VISITOR 7796                
+POS_DAY 8771                
+POS_DOMAIN 3388                
+POS_LOGIN 3757                
+POS_ROBOT 3912                
+POS_WORMS 4044                
+POS_EMAILSENDER 4175                
+POS_EMAILRECEIVER 4318                
+POS_SESSION 9056                
+POS_SIDER 9262                
+POS_FILETYPES 4453                
+POS_DOWNLOADS 4666                
+POS_OS 4775                
+POS_BROWSER 4948                
+POS_SCREENSIZE 5297                
+POS_UNKNOWNREFERER 5371                
+POS_UNKNOWNREFERERBROWSER 5524                
+POS_ORIGIN 5672                
+POS_SEREFERRALS 5809                
+POS_PAGEREFS 5953                
+POS_SEARCHWORDS 6101                
+POS_KEYWORDS 6253                
+POS_MISC 2378                
+POS_ERRORS 6312                
+POS_CLUSTER 3613                
+POS_SIDER_404 6452                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20220201081448 411 115929 13778183896405
+FirstTime 20220122181829
+LastTime 20220131205515
+LastUpdate 20220201101418 411 0 410 0 0
+TotalVisits 39                  
+TotalUnique 21                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 22                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 9 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 0 0 0
+2 1 1 17866 1 1 386
+3 1 1 5400 1 1 204
+4 0 0 0 0 0 0
+5 0 0 0 0 0 0
+6 0 0 0 0 0 0
+7 0 0 0 0 0 0
+8 41 44 563970 22 26 14137
+9 59 65 965554 34 38 741952
+10 7 7 115416 5 5 242414
+11 49 147 7951365 32 47 2123218
+12 18 54 2885499 8 8 1631
+13 34 66 3270790 5 9 10707
+14 18 23 312219 6 7 8839
+15 65 233 12530726 20 32 272914
+16 76 119 4199600 33 40 978826
+17 35 60 2664980 23 36 1962678
+18 71 140 6428049 41 66 539775
+19 40 41 912542 21 35 38077
+20 88 126 4801980 32 61 89279
+21 2 3 28781 1 1 386
+22 0 0 0 0 0 0
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 10
+br 362 688 28926835
+in 225 314 10774494
+fr 10 38 2334009
+jp 2 2 10789
+ma 2 27 896385
+us 1 1 5400
+co 1 20 452725
+ar 1 26 2224685
+gr 1 1 17866
+mx 0 13 1812929
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+js 219 22725883 0 0
+woff 2 11256 0 0
+woff2 4 308640 0 0
+Unknown 589 11267271 0 0
+json 1 7645 0 0
+css 230 8136155 0 0
+html 9 0 0 0
+png 76 4800647 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 2
+/notificacao/s1.mp3 0 4 100308
+/notificacao/s2.mp3 0 4 98312
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 8
+Unknown 2 2
+win10 985 589
+macosx 40 2
+macosx10 1 1
+ios_iphone 26 1
+win8.1 26 1
+linux 20 1
+linuxandroid 38 8
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 14
+chrome97.0.4692.99 461 331
+chrome92.0.4515.107 26 1
+chrome97.0.4692.98 31 4
+firefox89.0 40 2
+chrome39.0.2171.95 1 1
+chrome96.0.4664.110 5 2
+opera82.0.4227.58 166 62
+android 2 2
+opera83.0.4254.19 38 10
+Unknown 2 2
+chrome97.0.4692.71 294 185
+safari11.0 26 1
+firefox91.0 20 1
+chrome91.0.4472.114 26 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+Go_http_package 20220129025224
+WhatsApp/2.2149.4_N 20220129175727
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+WhatsApp/2.2149.4_N 20220129175727
+Go_http_package 20220129025224
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 35 36
+From1 0 0
+From2 0 0
+From3 0 0
+From4 570 1102
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+302 245 50921
+206 3 18514
+500 32 6659066
+404 123 296922
+103 1 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 14
+/imgs/logo.png 14 https://sistema.clickcont.com/configNF
+/imgs_planos/0b7bb15475a3386f68e40fa2a9044d02.png 1 https://sistema.clickcont.com/planos/editar/1
+/imgs_planos/8dbaf6e14b7e2b2617fd2bf7f930e5d0.png 1 https://sistema.clickcont.com/planos/editar/2
+/imgs_planos/8a0f9dae7dbc6e1c0187d52f0c245200.png 8 https://sistema.clickcont.com/planos/editar/1
+/../../imgs/slym.png 3 -
+/imgs_planos/590daa9a8222b03bc0b2bba775ea4705.jpeg 22 https://sistema.clickcont.com/plano
+/imgs_planos/2d9eb8e64bbdd27176788b8c92e03144.png 25 https://sistema.clickcont.com/plano
+/sss 1 https://sistema.clickcont.com/relatorios
+/imgs_planos/c4c4489e7330fbf7b9d2a5c76734ca3a.png 1 https://sistema.clickcont.com/planos/editar/1
+/imgs_planos/561ed5956607b9f84282328b4c21c64e.png 25 https://sistema.clickcont.com/plano
+/imgs_planos/0cf92be318cb6cb26fa2fdedc9bd0bf6.png 1 https://sistema.clickcont.com/planos/editar/3
+/imgs_planos/130b469c1a6c02edc4c52dd75e36d2b6.png 18 https://sistema.clickcont.com/plano
+/lottie-player.js.map 1 -
+/metronic/js/toastr.js.map 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 22
+45.179.237.159 184 244 7425615 20220123214047
+189.114.1.233 159 210 5367858 20220131162915
+186.213.37.18 76 94 1717531 20220128160438
+201.13.220.245 66 175 8335977 20220131141753
+186.213.35.1 42 71 3027901 20220131172026
+45.179.238.113 41 72 3348879 20220131200522
+189.114.4.60 11 11 107162 20220131205515
+77.111.246.8 8 34 2321343 20220123203436
+177.63.253.10 3 53 4457094 20220125171430
+152.244.74.34 3 28 2189013 20220122182250
+133.242.174.119 2 2 10789 20220122195646
+92.118.160.17 1 1 17866 20220129025224
+77.111.246.15 1 1 4940 20220124111930
+186.205.9.71 1 26 2224685 20220131151425
+77.111.246.39 1 3 7726 20220124111757
+189.90.255.30 1 26 1499614 20220131151425
+181.45.91.10 1 26 2224685 20220131151540
+13.36.39.111 1 1 5400 20220123030253
+186.145.231.158 1 20 452725 20220131151440
+45.230.80.247 1 14 484631 20220131151435
+45.230.124.54 1 13 411754 20220131151429
+187.233.254.61 0 13 1812929 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 9
+20220122 5 30 2199802 2
+20220123 193 277 9802013 7
+20220124 22 55 2701279 4
+20220125 1 26 2224684 1
+20220127 42 51 929421 1
+20220128 50 93 3664670 3
+20220129 72 140 5882056 3
+20220130 30 63 3097181 2
+20220131 190 395 17153631 16
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+2mn-5mn 4
+1h+ 6
+30mn-1h 5
+30s-2mn 2
+15mn-30mn 1
+5mn-15mn 4
+0s-30s 17
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 102
+/login 94 512294 31 15
+/planos 61 1414303 1 1
+/graficos 38 1059972 2 0
+/graficos/faturamentoDosUltimosSeteDias 38 2879 0 3
+/marcas 26 427235 0 0
+/ibpt 19 416304 1 0
+/marcas/new 16 283629 0 0
+/plano 16 123615 1 3
+/ibpt/new 16 357778 0 0
+/cadastro 15 65208 1 1
+/empresas 13 306466 0 2
+/configNF 13 1056405 1 2
+/naturezaOperacao 11 214850 0 0
+/produtos 11 217517 1 0
+/perfilAcesso 9 197529 0 0
+/ 9 0 0 0
+/planos/new 8 184632 0 1
+/planos/editar/1 8 189268 0 0
+/planos/editar/2 8 189119 0 0
+/planos/editar/3 8 189906 0 0
+/naturezaOperacao/new 7 135508 0 1
+/empresas/detalhes/3 6 226626 0 0
+/planos/editar/4 5 118400 0 0
+/contasPagar 5 119026 0 0
+/tributos 5 101691 0 0
+/subcategorias/new/1 1 17730 0 0
+/empresas/detalhes/2 3 113314 0 0
+/payment 2 51566 0 0
+/categorias 3 58181 0 1
+/vendas 1 26824 0 0
+/estoque/listApontamentos 1 17677 0 0
+/acessores 1 18100 0 0
+/financeiro/novoPagamento 3 66511 0 0
+/perfilAcesso/edit/2 1 35254 0 0
+/graficos/boxConsulta/30 2 154 0 0
+/marcas/edit/2 1 17732 0 0
+/perfilAcesso/new 3 105524 0 0
+/servicos 4 80948 0 0
+/graficos/boxConsulta/60 1 77 0 0
+/clientes/importacao 1 17974 0 0
+/estoque/pesquisa 1 22484 0 0
+/empresas/verDelete/1 1 22087 0 0
+/funcionarios/comissao 1 18360 0 0
+/perfilAcesso/edit/1 3 105949 0 0
+/financeiro/pay/1 1 22341 0 0
+/relatorios 3 87033 0 1
+/usuarios/edit/3 1 29832 0 0
+/usuarios 3 57645 0 0
+/subcategorias/list/1 1 17408 0 0
+/ibpt/ver/3 2 58652 0 0
+/cidades 1 44577 0 0
+/ibpt/ver/1 1 29347 0 0
+/online 3 66468 0 0
+/agendamentos/all 1 2 0 0
+/vendasEmCredito 2 45189 0 0
+/telasPedido/new 1 22121 0 0
+/anime/success.json 1 7645 0 0
+/contasPagar/pagar/2 1 22190 0 0
+/payment/finish 3 63627 0 2
+/ibpt/refresh/4 1 22077 0 0
+/metronic/css/fonts/keenthemes-icons/Ki.woff 2 11256 0 0
+/ibpt/refresh/8 1 22078 0 0
+/empresas/setarPlano/2 1 26236 0 0
+/categoriasServico 1 21698 0 0
+/caixa 1 23806 0 0
+/clientes/consultaCadastrado/040.141.562-73 1 2 0 0
+/divisaoGrade 1 17679 0 0
+/contasReceber 2 48362 0 0
+/representantes 3 67107 0 2
+/clientes 5 99482 0 0
+/empresas/configEmitente/3 1 84251 0 0
+/empresas/filtro 1 23050 0 0
+/estoque 4 82662 0 0
+/telasPedido 2 43358 0 0
+/contasPagar/filtro 1 23327 0 0
+/categorias/new 1 18137 0 0
+/funcionarios/new 2 36824 0 0
+/frenteCaixa 3 57924 0 0
+/contasPagar/new 2 45298 0 0
+/financeiro 4 91647 0 0
+/empresas/setarPlano/3 2 52467 0 0
+/fonts/fontawesome-webfont.woff2 4 308640 0 0
+/divisaoGrade/new 1 17851 0 1
+/enviarXml 2 44400 0 0
+/marcas/edit/3 2 35441 0 0
+/clientes/new 2 272176 0 1
+/funcionarios/edit/1 1 18498 0 0
+/marcas/edit/1 1 17730 0 0
+/escritorio 3 63347 0 0
+/empresas/detalhes/4 1 37702 0 0
+/fluxoCaixa 3 96538 0 2
+/vendas/importacao 1 22279 0 0
+/estoque/apontamentoProducao 2 22643 0 0
+/marcas/edit/4 1 17732 0 0
+/agendamentos 1 24073 0 0
+/marcas/edit/5 1 17732 0 0
+/funcionarios 3 56977 0 0
+/contasReceber/new 1 22736 0 0
+/graficos/boxConsulta/1 1 77 0 0
+/estoque/apontamentoManual 3 54519 0 0
+/graficos/boxConsulta/7 3 231 0 0
+/contrato 2 44079 0 0
+END_SIDER

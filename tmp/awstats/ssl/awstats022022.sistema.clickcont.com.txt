@@ -1,0 +1,1171 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202202 will be lost/reset.
+# Last config file used to build this data file was /home4/sistemaclickcont/tmp/awstats/ssl/awstats.sistema.clickcont.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2031                
+POS_TIME 2714                
+POS_VISITOR 10714               
+POS_DAY 12743               
+POS_DOMAIN 3514                
+POS_LOGIN 3880                
+POS_ROBOT 4035                
+POS_WORMS 4167                
+POS_EMAILSENDER 4298                
+POS_EMAILRECEIVER 4441                
+POS_SESSION 13481               
+POS_SIDER 13693               
+POS_FILETYPES 4576                
+POS_DOWNLOADS 4849                
+POS_OS 4962                
+POS_BROWSER 5125                
+POS_SCREENSIZE 5646                
+POS_UNKNOWNREFERER 5720                
+POS_UNKNOWNREFERERBROWSER 6062                
+POS_ORIGIN 6313                
+POS_SEREFERRALS 6453                
+POS_PAGEREFS 6597                
+POS_SEARCHWORDS 6745                
+POS_KEYWORDS 6897                
+POS_MISC 2377                
+POS_ERRORS 6956                
+POS_CLUSTER 3736                
+POS_SIDER_404 7161                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20220301035001 330 97256 26966931585367
+FirstTime 20220201081449
+LastTime 20220228235651
+LastUpdate 20220301103224 330 0 329 0 0
+TotalVisits 177                 
+TotalUnique 43                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 47                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+DirectorSupport 0 0 0
+JavaEnabled 0 0 0
+AddToFavourites 0 31 0
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 6 6 32813 6 6 1224
+1 0 0 0 2 2 772
+2 0 0 0 0 0 0
+3 0 0 0 0 0 0
+4 1 1 17893 1 1 402
+5 0 0 0 0 0 0
+6 0 0 0 1 1 386
+7 0 0 0 0 0 0
+8 696 1023 25193145 117 160 1862579
+9 515 772 35311139 138 176 410401
+10 737 962 39408853 193 251 741460
+11 686 849 70771183 231 282 960595
+12 275 399 14620284 108 136 833627
+13 310 507 22989697 89 112 763746
+14 608 1040 45937065 203 245 1966046
+15 707 1104 46579588 206 283 2165880
+16 814 974 42009095 265 332 2529475
+17 1027 1276 49737375 247 314 1056900
+18 223 290 7509237 45 50 260704
+19 152 300 14539725 39 55 1086942
+20 73 138 9886149 43 53 1246525
+21 70 164 4291778 34 37 3439436
+22 19 56 5987353 12 13 2450
+23 44 97 3888533 47 47 51762
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 9
+br 6414 8894 388633384
+in 275 435 18998796
+fr 261 483 19457514
+us 4 53 3504067
+gr 4 4 71545
+ma 3 39 2241763
+mx 1 25 2230876
+co 1 13 411766
+pa 0 12 1174994
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+Unknown 6875 244763142 0 0
+jpeg 80 3358000 0 0
+png 416 27019923 0 0
+js 1450 109008344 0 0
+woff2 42 3163560 0 0
+mp3 4 496550 0 0
+woff 29 151956 0 0
+json 17 148553 0 0
+gif 116 13619040 0 0
+css 929 33505987 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 2
+/notificacao/s2.mp3 0 42 983120
+/notificacao/s1.mp3 0 41 1003080
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 7
+linuxandroid 13 1
+macosx 719 277
+linux 50 2
+win10 9179 6675
+Unknown 5 5
+win7 25 1
+ios_iphone 50 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 21
+chrome92.0.4515.131 25 1
+chrome94.0.4606.81 67 25
+chrome92.0.4515.159 25 1
+opera83.0.4254.27 972 786
+mozilla 1 1
+safari12.0 25 1
+chrome98.0.4758.80 32 1
+firefox90.0 25 1
+opera83.0.4254.62 75 10
+chrome92.0.4515.166 13 1
+firefox97.0 346 100
+firefox96.0 270 94
+chrome97.0.4692.99 1434 920
+opera84.0.4316.21 163 40
+safari14.0.3 25 1
+chrome98.0.4758.81 2013 1681
+opera82.0.4227.58 84 57
+chrome98.0.4758.82 1880 1515
+chrome98.0.4758.102 2537 1722
+Unknown 4 4
+firefox91.0 25 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20220207140303
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20220228170453
+Go_http_package 20220207041237
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Go_http_package 20220207041237
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20220228170453
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 191 199
+From1 0 0
+From2 0 0
+From3 0 0
+From4 6772 9842
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 10
+206 13 192150
+302 1573 321903
+404 793 1907043
+402 4 840
+406 1 226
+103 1 0
+500 86 15338849
+419 32 70802
+405 7 1548520
+401 15 979
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 41
+/imgs_produtos/l8EaVU49CMcvy2DtDKzDlFMto.png 5 https://sistema.clickcont.com/produtos
+/imgs_produtos/2fHd6rpE7gtFaiXXtwDj7h0S6.jfif 100 https://sistema.clickcont.com/produtos
+/contasPagar//metronic/js/plugins.bundle.js 1 -
+/metronic/css/fonts/line-awesome/la-solid-900.woff 2 https://sistema.clickcont.com/metronic/css/plugins.bundle.css
+/logos/bd8f6dccc4cbaaeeefe869fea5218b7d979138.png 2 https://sistema.clickcont.com/configNF
+/imgs_produtos/Hnw4ecDXHAMGFeg2M4A3jTSyp.jpg 100 https://sistema.clickcont.com/produtos
+/imgs_produtos/XpnTUzeWAtu8vqaCDTiiQOk3L.jpg 17 https://sistema.clickcont.com/frenteCaixa
+/imgs_planos/130b469c1a6c02edc4c52dd75e36d2b6.png 24 https://sistema.clickcont.com/plano
+/imgs_produtos/Mq4pbGeGAHFTIqNPagJhWud7N.jpg 10 https://sistema.clickcont.com/frenteCaixa
+/metronic/js/toastr.js.map 52 -
+/metronic/css/fonts/line-awesome/la-solid-900.svg 1 https://sistema.clickcont.com/cadastro
+/imgs_planos/590daa9a8222b03bc0b2bba775ea4705.jpeg 38 https://sistema.clickcont.com/plano
+/imgs_planos/2d9eb8e64bbdd27176788b8c92e03144.png 36 https://sistema.clickcont.com/plano
+/metronic/css/fonts/line-awesome/la-regular-400.woff2 1 https://sistema.clickcont.com/cadastro
+/imgs_produtos/ijrIBhKEtn8xwZmPbkEL00I4b.jfif 3 https://sistema.clickcont.com/produtos/edit/2
+//consultaCadastrado/055.054.091-33 1 https://sistema.clickcont.com/transportadoras/new
+/imgs_produtos/wyVAWPE41AmixVV7Say4N7gme.jfif 98 https://sistema.clickcont.com/produtos
+/metronic/css/fonts/line-awesome/la-regular-400.svg 1 https://sistema.clickcont.com/cadastro
+/../../imgs/logo1.png 1 -
+/imgs_produtos/Mmg6ezpIrycuKt98qWPx0nMuQ.jfif 2 https://sistema.clickcont.com/produtos
+/../../imgs/slym.png 6 -
+/lottie-player.js.map 15 -
+/imgs_produtos/9U0cVY7JmhTEKrNOH6xlTaISH.jpg 6 https://sistema.clickcont.com/produtos
+/rep/empresas 1 -
+/metronic/css/fonts/line-awesome/la-solid-900.woff2 2 https://sistema.clickcont.com/metronic/css/plugins.bundle.css
+/imgs_produtos/tJVvbCnFBCGRTLzutKjl9Emex.jfif 5 https://sistema.clickcont.com/produtos/edit/9
+//consultaCadastrado/055.054.091-13 1 https://sistema.clickcont.com/acessores/new
+//consultaCadastrado/055.054.091-18 1 https://sistema.clickcont.com/acessores/new
+/imgs_produtos/2KgAKhYNTZEruDoB2idmwMpnD.jpg 4 https://sistema.clickcont.com/produtos
+/imgs_produtos/T5BTWX3mqdurpf1UYMw0kepuv.jfif 7 https://sistema.clickcont.com/produtos
+/logon 1 -
+/imgs_produtos/JLzMnmSOEQieJynwWeyXACgoB.jpg 17 https://sistema.clickcont.com/frenteCaixa
+/imgs_produtos/cDsvMbsn6y3GQaGAhgUFyx4Xj.jfif 2 https://sistema.clickcont.com/produtos/edit/2
+/metronic/css/fonts/line-awesome/la-solid-900.ttf 2 https://sistema.clickcont.com/metronic/css/plugins.bundle.css
+/logos/60ce9d45ed1c1c9bfeaa0c672579c25149523.png 5 -
+/metronic/css/fonts/line-awesome/la-regular-400.woff 1 https://sistema.clickcont.com/cadastro
+/imgs_planos/8b3b9bfbeee2bca41e9be40a40ed3da2.jpg 19 https://sistema.clickcont.com/planos/editar/1
+/imgs/logo.png 71 https://sistema.clickcont.com/configNF
+/imgs_planos/561ed5956607b9f84282328b4c21c64e.png 38 https://sistema.clickcont.com/plano
+/imgs_produtos/DByK0UvITek5BEBPE0rGxYZDl.jpg 93 https://sistema.clickcont.com/produtos
+/metronic/css/fonts/line-awesome/la-regular-400.ttf 1 https://sistema.clickcont.com/cadastro
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 47
+191.30.143.241 1554 1998 140757094 20220217105435
+189.114.3.166 1078 1247 34140712 20220215110021
+186.213.35.1 1058 1511 63213080 20220209175119
+201.43.250.84 567 676 8430232 20220207121023
+177.134.88.99 546 629 24497404 20220222114626
+189.114.4.233 452 626 20582572 20220222100604
+201.7.4.48 270 389 12918594 20220226142242
+189.114.1.233 205 261 6522141 20220202175222
+177.128.119.121 204 456 19697573 20220222144947
+45.179.238.113 172 240 10716622 20220210181127
+191.31.172.35 165 363 19000469 20220228163610
+45.179.238.31 103 201 8282174 20220228185930
+201.10.146.64 76 142 6284954 20220205101437
+77.111.246.7 67 95 2437195 20220202120737
+77.111.246.39 62 90 2407761 20220202121607
+77.111.246.38 61 72 1105411 20220202211920
+201.13.220.245 57 84 1645861 20220201190436
+186.213.33.98 57 127 4657084 20220224155447
+77.111.246.40 42 191 12749338 20220228190054
+177.128.118.180 34 68 4479215 20220220210113
+77.111.246.6 29 34 757809 20220202194613
+177.128.119.123 27 73 3505006 20220228235651
+189.114.5.114 24 68 3216982 20220208093012
+201.10.147.217 11 14 165251 20220214094413
+191.7.71.221 10 65 4182903 20220202195124
+92.118.160.5 1 1 17893 20220207041237
+186.96.106.155 0 12 1174994 
+167.94.138.119 1 1 5406 20220207140303
+92.118.160.1 1 1 17866 20220201153816
+177.134.94.252 0 2 0 
+177.39.118.117 1 25 1627245 20220207085105
+143.255.205.142 2 27 2267221 20220225090817
+187.251.117.228 1 25 2230876 20220207085103
+177.25.235.167 1 24 2229391 20220224124455
+177.25.229.137 0 1 31407 
+177.63.253.10 2 27 2270008 20220211081612
+177.181.120.125 1 1 5047 20220222195253
+181.129.240.243 1 13 411766 20220207085103
+170.247.76.205 1 25 1231440 20220207085105
+177.128.118.188 4 17 347384 20220223204446
+92.118.160.17 1 1 17893 20220228170453
+189.47.48.3 8 47 2705575 20220217195627
+92.118.160.61 1 1 17893 20220205232355
+177.52.68.51 1 25 1514797 20220207085121
+45.225.125.129 3 39 2241763 20220216155128
+177.134.92.1 1 1 5403 20220225080649
+77.111.246.4 0 5 0 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 25
+20220201 123 192 5482240 10
+20220202 478 761 28879810 16
+20220203 625 690 12163343 8
+20220204 369 402 8083148 6
+20220205 132 200 7777015 3
+20220207 830 1200 40036511 13
+20220208 146 223 6047758 6
+20220209 588 783 39370755 4
+20220210 273 315 14345871 6
+20220211 388 425 23890024 7
+20220212 31 34 660697 1
+20220214 495 581 32917033 4
+20220215 183 308 14832733 11
+20220216 430 687 67875405 5
+20220217 365 540 25729981 12
+20220218 300 455 27132684 11
+20220219 239 326 11812712 3
+20220220 13 16 210875 2
+20220221 414 659 20547279 8
+20220222 187 245 5548851 10
+20220223 87 112 2181129 10
+20220224 175 447 24580372 9
+20220225 8 74 4992985 4
+20220226 1 1 5441 1
+20220228 83 282 13606253 7
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30s-2mn 12
+15mn-30mn 14
+30mn-1h 24
+2mn-5mn 12
+1h+ 53
+5mn-15mn 21
+0s-30s 41
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 770
+/login 559 3056699 138 58
+/contasPagar 411 33180316 3 7
+/clientes 392 18492110 3 7
+/graficos/faturamentoDosUltimosSeteDias 345 26889 7 29
+/graficos 335 9553127 9 0
+/produtos 323 12366231 1 7
+/payment/consulta/19927830926 301 2711 0 0
+/produtos/all 229 349235 0 4
+/produtos/new 186 6322728 0 0
+/payment/consulta/20021395409 152 1368 0 0
+/contasPagar/filtro 134 53232841 0 1
+/contasPagar/new 131 3104113 0 1
+/contasReceber 130 9089858 1 2
+/produtos/filtroCategoria 121 3597274 2 7
+/categorias 105 2215408 1 1
+/controleCozinha/buscar 100 200 0 0
+/produtos/gerarCodigoEan 95 1425 0 0
+/contasReceber/new 87 2634956 0 3
+/vendas 72 1773948 0 2
+/configNF 71 5764337 0 1
+/frenteCaixa 67 8672291 3 0
+/contasReceber/save 65 13913 0 0
+/caixa 64 1329637 1 1
+/aberturaCaixa/verificaHoje 61 370 0 2
+/categoriasConta 60 1317943 1 1
+/clientes/edit/127 1 143029 0 0
+/veiculos/new 1 25781 0 0
+/contaBancaria 16 363245 1 1
+/clientes/consultaCadastrado/39.292.731_0001-93 1 2 0 0
+/contasPagar/pagar/4964 1 23843 0 0
+/clientes/edit/119 1 143027 0 0
+/clientes/consultaCadastrado/42.980.876_0001-91 1 2 0 0
+/clientes/consultaCadastrado/11.129.196_0001-35 1 2 0 0
+/contasPagar/edit/966 1 24258 0 0
+/clientes/edit/134 1 143027 0 0
+/produtos/edit/151 1 34004 0 0
+/clientes/consultaCadastrado/840.227.521-49 1 2 0 0
+/suprimentoCaixa/save 1 118 0 0
+/contasPagar/edit/5827 1 24253 0 0
+/contasPagar/edit/6739 2 48599 0 0
+/payment/20031752514 1 25515 0 0
+/clientes/edit/115 1 143009 0 0
+/clientes/consultaCadastrado/29.163.220_0001-18 1 2 0 0
+/compras/emitirEntrada/4 1 20166 0 0
+/anime/success.json 15 114675 0 0
+/contasPagar/pagar/1616 2 47666 0 0
+/clientes/edit/113 1 143025 0 0
+/nfce/imprimirNaoFiscal/8 1 1331 0 0
+/clientes/edit/37 2 286082 0 0
+/compraFiscal/new 4 486748 0 0
+/clientes/edit/107 1 142988 0 0
+/produtos/salvarProdutoDaNota 45 21845 0 0
+/dfe/getDocumentosNovos 6 510 0 1
+/categoriasServico/edit/1 1 20047 0 0
+/naturezaOperacao/new 15 296568 0 2
+/produtos/getProduto/241 2 1430 0 0
+/contasPagar/edit/426 2 48504 0 0
+/marcas 43 799855 0 1
+/clientes/edit/16 1 143022 0 0
+/empresas/detalhes/8 6 247761 0 0
+/compraManual 11 497282 0 0
+/cotacao/new 2 48996 0 0
+/produtos/quickSave 1 484 0 0
+/ordemServico/new 5 131764 0 0
+/contasPagar/pagar/317 1 23374 0 0
+/clientes/edit/73 1 143090 0 0
+/contasPagar/pagar/1184 1 23823 0 0
+/clientes/consultaCadastrado/33.026.511_0001-31 1 2 0 0
+/dfe/imprimirDanfe/41211111436073000147550010002803301556332388 3 22769 0 0
+/clientes/edit/93 1 143024 0 0
+/clientes/edit/44 2 286026 0 0
+/contasPagar/edit/2 2 48131 0 0
+/clientes/consultaCadastrado/24.080.207_0001-81 1 2 0 0
+/clientes/consultaCadastrado/38.245.611_0001-72 1 2 0 0
+/representantes/detalhes/2 1 36146 0 0
+/clientes/consultaCadastrado/36.404.114_0001-44 1 2 0 0
+/contasPagar/edit/2265 2 48514 0 0
+/nfce/imprimirNaoFiscal/7 1 1346 0 0
+/produtos/edit/32 3 100777 0 0
+/orcamentoVenda/relatorioItens/22-01-2022/21-02-2022 1 972 0 0
+/dfe/novaConsulta 15 329747 0 0
+/cidades/findNome/FIGUEIROPOLIS 1 124 0 0
+/clientes/edit/41 1 142991 0 0
+/clientes/consultaCadastrado/16.620.688_0001-42 1 2 0 0
+/empresas/setarPlano/7 1 26219 0 0
+/autorPost 2 45076 0 0
+/subcategorias/list/20 2 39655 0 0
+/financeiro/detalhes/2 1 28028 0 0
+/orcamentoVenda/enviarEmail 2 0 0 0
+/vendas/importacao 15 513506 0 0
+/listaDePrecos/new 1 19318 0 0
+/contasPagar/pagar/1507 1 23388 0 0
+/cidades/findNome/GOIOERE 1 121 0 0
+/clientes/edit/68 1 143009 0 0
+/contasPagar/edit/3883 1 24251 0 0
+/clientes/consultaCadastrado/04.802.930_0001-10 1 2 0 0
+/clientes/consultaCadastrado/34.767.335_0001-51 2 4 0 0
+/contasPagar/pagar/642 5 119117 0 0
+/clientes/consultaCadastrado/32.203.543_0002-83 1 2 0 0
+/contasPagar/pagar/3668 3 71490 0 0
+/cidades/findNome/ALTO%20PARAISO 1 122 0 0
+/produtos/downloadModelo 3 17442 0 0
+/clientes/consultaCadastrado/19.290.945_0001-13 1 2 0 0
+/usuarios/new 6 206694 0 0
+/clientes/consultaCadastrado/36.454.311_0001-78 1 2 0 0
+/contasPagar/edit/2588 3 72793 0 0
+/contasPagar/pagar/751 1 23815 0 0
+/servicos/new 5 99369 0 0
+/fornecedores/edit/4 1 80541 0 0
+/vendasEmCredito/filtro 3 67327 0 0
+/subcategorias/list/1 3 59339 0 0
+/fornecedores/find/2 1 327 0 0
+/vendasEmCredito 12 264962 0 1
+/remessasBoleto/boletosSemRemessa 2 48924 0 0
+/clientes/consultaCadastrado/37.381.677_0001-27 1 2 0 0
+/categoriasServico/new 4 74188 0 0
+/graficos/boxConsulta/7 14 1195 0 1
+/vendasCaixa/diaria 1 372 0 0
+/clientes/edit/52 1 143022 0 0
+/clientes/edit/11 1 142968 0 0
+/percentualuf/novo/AC 1 23806 0 0
+/produtos/edit/48 1 33633 0 0
+/escritorio 6 129747 0 0
+/contasPagar/pagar/1615 1 23398 0 0
+/clientes/consultaCadastrado/38.142.469_0001-38 1 2 0 0
+/contasPagar/edit/535 1 24245 0 0
+/clientes/consultaCadastrado/10.815.316_0001-95 2 4 0 0
+/clientes/consultaCadastrado/420.964.670-00 1 2 0 0
+/contasPagar/edit/2589 1 24249 0 0
+/clientes/consultaCadastrado/07.971.593_0001-82 1 2 0 0
+/clientes/edit/138 1 142976 0 0
+/clientes/edit/14 1 142994 0 0
+/clientes/consultaCadastrado/055.054.091-44 1 2 0 0
+/clientes/edit/59 1 142983 0 0
+/clientes/edit/132 1 143016 0 0
+/clientes/edit/25 1 143000 0 0
+/clientes/edit/20 1 143028 0 0
+/clientes/edit/136 1 143012 0 0
+/clientes/consultaCadastrado/08.586.171_0002-37 2 468 0 0
+/clientes/consultaCadastrado/02.247.726_0001-59 1 2 0 0
+/clientes/consultaCadastrado/192.909.450-00 1 2 0 0
+/clientes/consultaCadastrado/00.000.000_0000-00 4 8 0 0
+/clientes/consultaCadastrado/29.313.630_0001-06 1 2 0 0
+/contasPagar/pagar/1400 2 47647 0 0
+/payment/consulta/20031752514 19 172 0 0
+/clientes/consultaCadastrado/10.453.761_0001-52 1 2 0 0
+/categoriasConta/edit/19 3 68513 0 0
+/contasPagar/pagar/4640 1 23827 0 0
+/produtos/edit/80 2 67545 0 0
+/clientes/consultaCadastrado/26.729.561_0001-10 1 2 0 0
+/contasPagar/edit/5613 1 24255 0 0
+/clientes/consultaCadastrado/19.290.945_0003-85 1 2 0 0
+/clientes/edit/50 1 142986 0 0
+/clientes/consultaCadastrado/11.002.868_0001-47 1 2 0 0
+/contasPagar/pagar/211 1 23813 0 0
+/clientes/consultaCadastrado/34.661.965_0001-47 1 2 0 0
+/clientes/edit/29 1 143052 0 0
+/clientes/edit/55 1 142993 0 0
+/vendas/detalhar/1 1 20250 0 0
+/clientes/consultaCadastrado/23.184.283_0001-74 1 2 0 0
+/contasPagar/edit/3992 3 72857 0 0
+/clientes/consultaCadastrado/28.563.090_0001-48 1 2 0 0
+/produtos/edit/96 1 34006 0 0
+/clientes/consultaCadastrado/951.115.790-60 3 6 0 0
+/clientes/consultaCadastrado/04.637.531_0001-40 2 514 0 0
+/clientes/edit/22 1 143017 0 0
+/vendas/rederizarDanfe/3 1 11003 0 0
+/produtos/edit/76 2 68251 0 0
+/clientes/consultaCadastrado/34.749.744_0001-25 1 2 0 0
+/listaDePrecos/edit/2 1 24031 0 0
+/clientes/all 5 14958 0 0
+/nf/gerarNf 1 17 0 0
+/contasPagar/pagar/3452 1 23819 0 0
+/compras/pesquisa 1 22981 0 0
+/empresas/filtro 2 58979 0 0
+/devolucao/filtro 3 69570 0 0
+/listaDePrecos 12 260216 0 1
+/clientes/edit/4 5 715382 0 0
+/orcamentoVenda/imprimir/2 1 1388 0 0
+/contasPagar/edit/5837 1 24264 0 0
+/clientes/consultaCadastrado/07.262.515_0001-09 1 2 0 0
+/produtos/edit/252 4 122781 0 0
+/produtos/getUnidadesMedida 49 11564 0 1
+/produtos/edit/27 1 33446 0 0
+/clientes/consultaCadastrado/25.089.962_0001-90 1 2 0 0
+/clientes/edit/98 1 142935 0 0
+/relatorios/cadastroProdutos 4 19533 0 0
+/clientes/edit/427 3 416453 0 1
+/mdfe/nova 4 93671 0 0
+/contasPagar/edit/2912 1 24245 0 0
+/nf/imprimirCancela/3 1 2472 0 0
+/representantes/detalhes/1 1 36158 0 0
+/fornecedores/new 3 237886 0 0
+/caixa/list 5 104161 0 0
+/metronic/css/fonts/keenthemes-icons/Ki.woff 29 151956 0 2
+/contaBancaria/new 7 563111 0 0
+/clientes/edit/78 1 143094 0 0
+/relatorios/filtroVendas2 5 8890 0 0
+/mesas 2 46859 0 0
+/produtos/edit/9 1 33474 0 0
+/contasPagar/pagar/1508 4 95285 0 0
+/cte/nova 6 140436 0 0
+/clientes/edit/46 1 142997 0 0
+/clientes/consultaCadastrado/83.759.084_0001-79 1 2 0 0
+/clientes/consultaCadastrado/07.510.280_0001-27 1 2 0 0
+/clientes/consultaCadastrado/39.330.059_0001-83 2 526 0 0
+/clientes/consultaCadastrado/18.596.782_0001-39 1 2 0 0
+/contasPagar/relatorio 11 83701 0 0
+/clientes/consultaCadastrado/10.815.316_0002-76 1 2 0 0
+/agendamentos/servicos 3 52983 0 0
+/caixa/detalhes/1 1 20606 0 0
+/contasPagar/edit/4963 1 24269 0 0
+/clientes/edit/87 1 143008 0 0
+/clientes/consultaCadastrado/04.519.358_0002-67 1 2 0 0
+/ordemServico/imprimir/1 1 1401 0 1
+/contasPagar/edit/4 1 23811 0 0
+/postBlog 1 23377 0 0
+/clientes/consultaCadastrado/35.337.168_0001-71 1 2 0 0
+/clientes/edit/63 1 142973 0 0
+/clientes/edit/69 1 142963 0 0
+/payment/finish 15 340869 0 4
+/nf/imprimirCce/3 1 81 0 0
+/empresas/alterarSenha/8 2 51582 0 0
+/clientes/consultaCadastrado/37.714.308_0001-09 1 2 0 0
+/payment/paymentPix 5 240321 0 0
+/produtos/edit/15 1 34001 0 0
+/contasPagar/pagar/4748 1 23822 0 0
+/produtos/edit/24 1 33971 0 0
+/clientes/consultaCadastrado/37.382.097_0001-54 1 2 0 0
+/produtos/edit/10 1 34092 0 0
+/marcas/new 9 185493 0 0
+/subcategorias/list/2 5 99392 0 0
+/relatorios 30 902293 0 0
+/clientes/edit/62 1 142993 0 0
+/clientes/edit/3 2 284765 0 0
+/contasPagar/pagar/4208 2 47673 0 0
+/categoriasConta/edit/17 1 22992 0 0
+/403 1 2181 0 0
+/contasPagar/edit/4532 1 24260 0 0
+/contasReceber/edit/62 3 90320 0 0
+/agendamentos/detalhes/1 1 22953 0 0
+/funcionarios/edit/3 1 23640 0 0
+/produtos/edit/12 1 34091 0 0
+/clientes/edit/81 1 143036 0 0
+/clientes/consultaCadastrado/27.219.907_0001-00 1 2 0 0
+/sangriaCaixa/diaria 1 2 0 0
+/clientes/consultaCadastrado/37.348.971_0001-37 1 2 0 0
+/fluxoCaixa/relatorioIndex 3 3963 0 0
+/clientes/edit/60 1 142997 0 0
+/contasPagar/edit/5180 1 24273 0 0
+/empresas/detalhes/9 3 123567 0 0
+/clientes/edit/65 1 142975 0 0
+/clientes/consultaCadastrado/23.083.345_0001-51 2 4 0 0
+/clientes/edit/84 1 142999 0 0
+/percentualuf/edit/TO 1 19163 0 0
+/nfce/imprimirNaoFiscal/4 1 1278 0 0
+/contasPagar/pagar/1074 1 23404 0 0
+/funcionarios/edit/4 1 24537 0 0
+/usuarios/edit/7 1 35853 0 0
+/clientes/edit/36 1 142993 0 0
+/categorias/edit/19 1 19994 0 0
+/clientes/consultaCadastrado/33.173.095_0001-02 2 496 0 0
+/contasReceber/edit/1 1 28863 0 0
+/agendamentos 9 265648 0 0
+/vendas/imprimirPedido/2 1 2330 0 0
+/clientes/edit/23 1 142988 0 0
+/vendasCaixa/save 9 2977 0 0
+/clientes/edit/106 1 142975 0 0
+/clientes/consultaCadastrado/006.356.652-47 3 6 0 0
+/gruposCliente/list/4 1 23622 0 0
+/clientes/edit/108 1 143016 0 0
+/clientes/consultaCadastrado/000.000.000-00 2 4 0 0
+/contasPagar/edit/3019 1 24261 0 0
+/clientes/edit/102 1 143055 0 0
+/clientes/edit/17 1 142972 0 0
+/clientes/consultaCadastrado/37.364.688_0001-07 1 2 0 0
+/clientes/consultaCadastrado/33.656.784_0001-60 1 2 0 0
+/percentualuf 8 175271 0 0
+/clientes/consultaCadastrado/30.340.321_0001-04 1 2 0 0
+/clientes/delete/3 1 23245 0 0
+/clientes/consultaCadastrado/09.140.159_0001-86 1 2 0 0
+/produtos/naoComposto 10 25575 0 0
+/categoriaPosts 2 46764 0 0
+/contasPagar/pagar/2048 1 23831 0 0
+/clientes/edit/53 1 142981 0 0
+/clientes/consultaCadastrado/08.586.171_0001-56 1 2 0 0
+/nf/imprimirCancela/1 1 81 0 0
+/clientes/consultaCadastrado/43.131.380_0001-06 1 2 0 0
+/clientes/consultaCadastrado/055.054.091-00 1 2 0 0
+/clientes/pesquisa 20 575231 1 3
+/empresas/detalhes/6 3 113833 0 0
+/orcamentoVenda/rederizarDanfe/2 1 10893 0 0
+/funcionarios/comissao 2 43060 0 0
+/nf/consultar_cliente/1 1 343 0 0
+/contasPagar/edit/5072 2 48540 0 0
+/percentualuf/novo/TO 3 66842 0 0
+/dfe/imprimirDanfe/17211123883053000284550010000124991003007606 2 12173 0 0
+/clientes/edit/126 1 142974 0 0
+/clientes/edit/122 1 142948 0 0
+/agendamentos/all 9 261 0 0
+/contasPagar/edit/6742 2 48585 0 0
+/clientes/edit/128 1 142992 0 0
+/clientes/consultaCadastrado/055.054.091-33 1 2 0 0
+/clientes/consultaCadastrado/25.084.132_0001-70 1 2 0 0
+/fluxoCaixa 33 721327 0 0
+/clientes/edit/95 1 142995 0 0
+/categoriasConta/edit/12 1 22971 0 0
+/servicos 19 434498 0 0
+/clientes/consultaCadastrado/35.730.693_0001-52 1 2 0 0
+/clientes/edit/90 1 143008 0 0
+/produtos/edit/249 1 32039 0 0
+/clientes/edit/70 1 142974 0 0
+/contasPagar/edit/1616 3 72783 0 0
+/contasPagar/edit/2804 1 24293 0 0
+/clientes/edit/47 1 142971 0 0
+/clientes/consultaCadastrado/18.452.244_0001-70 1 2 0 0
+/empresas/nova 1 37230 0 0
+/clientes/edit/75 1 143034 0 0
+/contasPagar/pagar/6969 1 20125 0 0
+/clientes/edit/86 1 142986 0 0
+/orcamentoVenda/filtro 3 77537 0 0
+/remessasBoleto 6 139958 0 0
+/clientes/edit/111 1 142983 0 0
+/payment/19927830926 3 64806 0 0
+/usuarios 33 918226 0 1
+/contasPagar/pagar/4316 1 23838 0 0
+/fonts/fontawesome-webfont.woff2 42 3163560 0 0
+/clientes/edit/72 1 142979 0 0
+/clientes/consultaCadastrado/24.952.816_0001-83 1 2 0 0
+/clientes/consultaCadastrado/269.372.430-00 1 2 0 0
+/contasPagar/edit/5071 1 24271 0 0
+/produtos/edit/153 1 34085 0 0
+/produtos/edit/155 1 34066 0 0
+/clientes/edit/92 1 143017 0 0
+/clientes/consultaCadastrado/17.369.108_0001-59 2 4 0 0
+/categoriasConta/edit/20 1 22978 0 0
+/clientes/consultaCadastrado/055.054.091-13 3 449 0 0
+/clientes/edit/99 1 143023 0 0
+/representantes/empresas/2 3 68666 0 0
+/clientes/consultaCadastrado/30.099.270_0001-62 1 2 0 0
+/clientes/edit/79 1 143011 0 0
+/clientes/consultaCadastrado/39.895.624_0001-50 1 2 0 0
+/contasPagar/edit/102 1 24262 0 0
+/clientes/consultaCadastrado/26.072.026_0001-39 1 2 0 0
+/devolucao 7 171662 0 0
+/transportadoras/edit/2 2 161824 0 0
+/contasPagar/pagar/425 1 23392 0 0
+/clientes/edit/104 1 143040 0 0
+/clientes/edit/8 2 285971 0 0
+/clientes/consultaCadastrado/28.368.634_0001-10 1 2 0 0
+/divisaoGrade/new 2 43923 0 0
+/agendamentos/filtro 7 688 0 0
+/clientes/edit/28 2 286043 0 0
+/empresas/arquivosXml/9 1 25687 0 0
+/configNF/verificaSenha 2 8 0 0
+/vendas/filtro 6 149310 0 0
+/empresas/setarPlano/11 1 29735 0 0
+/dre 6 125076 0 1
+/categorias/edit/1 2 39965 0 0
+/clientes/consultaCadastrado/41.452.565_0001-97 1 2 0 0
+/contasPagar/edit/3668 2 48501 0 0
+/clientes/consultaCadastrado/08.171.220_0001-90 1 2 0 0
+/ordemServico/servicosordem/1 3 80209 0 0
+/produtos/edit/40 2 67206 0 0
+/ibpt 2 51113 0 0
+/cadastro 42 170631 3 3
+/contasPagar/pagar/5871 1 24706 0 0
+/compraFiscal/salvarNfFiscal 1 230 0 0
+/financeiro/filtro 1 26796 0 0
+/clientes/edit/137 1 142977 0 0
+/clientes/edit/110 1 142960 0 0
+/compras/consultar 1 318 0 0
+/controleCozinha/controle 5 90343 0 0
+/contasPagar/pagar/2 1 23859 0 0
+/clientes/consultaCadastrado/44.389.004_0001-89 1 2 0 0
+/clientes/edit/124 1 142967 0 0
+/produtos/importacao 5 120226 0 0
+/funcionarios/new 17 386914 0 0
+/contasPagar/pagar/1292 2 47664 0 0
+/naturezaOperacao 28 565390 0 1
+/clientes/edit/34 1 143014 0 0
+/pedidos/controleComandas 4 96204 0 0
+/veiculos 11 246789 0 0
+/clientes/edit/31 1 142986 0 0
+/dfe/filtro 13 314823 0 0
+/dre/list 3 58720 0 0
+/produtos/edit/42 1 33590 0 0
+/nf/imprimir/3 1 10971 0 0
+/clientes/consultaCadastrado/26.937.243_0001-44 1 2 0 0
+/payment 11 300691 0 0
+/contasPagar/edit/3776 1 24252 0 0
+/produtos/edit/2 2 66633 0 0
+/empresas/detalhes/5 1 41158 0 0
+/contasPagar/edit/318 1 24246 0 0
+/clientes/edit/58 1 142957 0 0
+/categoriasConta/edit/21 1 22535 0 0
+/orcamentoVenda/salvar 2 471 0 0
+/categoriasConta/edit/18 3 68971 0 0
+/clientes/consultaCadastrado/06.113.361_0001-20 1 2 0 0
+/clientes/consultaCadastrado/17.483.361_0001-39 1 2 0 0
+/acessores 13 294367 0 0
+/clientes/edit/30 1 143055 0 0
+/_ignition/health-check 7 203 0 0
+/clientes/consultaCadastrado/13.670.313_0001-07 1 2 0 0
+/clientes/edit/35 1 143007 0 0
+/clientes/consultaCadastrado/17.033.813_0001-80 1 2 0 0
+/clientes/edit/133 1 142988 0 0
+/clientes/consultaCadastrado/08.894.878_0002-00 1 2 0 0
+/clientes/edit/135 1 143007 0 0
+/contasPagar/pagar/102 2 47644 0 0
+/empresas/setarPlano/6 1 26267 0 0
+/contasPagar/edit/4316 2 48602 0 0
+/perfilAcesso/edit/1 1 35289 0 0
+/usuarios/edit/8 1 35849 0 0
+/clientes/edit/100 1 143014 0 0
+/produtos/getProduto/242 1 719 0 0
+/clientes/downloadModelo 3 15888 0 0
+/contasPagar/pagar/3128 2 47661 0 0
+/empresas/download/9 1 9158 0 0
+/devolucao/nova 3 63226 0 0
+/clientes/edit/32 1 143040 0 0
+/clientes/edit/6 4 571924 0 0
+/frenteCaixa/config 2 45404 0 0
+/clientes/consultaCadastrado/445.044.420-00 5 10 0 0
+/clientes/edit/18 1 143037 0 0
+/contasPagar/edit/4208 2 48515 0 0
+/clientes/consultaCadastrado/44.351.271_0001-67 1 2 0 0
+/produtos/edit/73 1 33761 0 0
+/funcionarios/edit/2 1 19981 0 0
+/clientes/edit/120 1 142976 0 0
+/contasPagar/pagar/3775 1 23835 0 0
+/clientes/edit/114 1 143005 0 0
+/clientes/edit/39 1 142998 0 0
+/clientes/consultaCadastrado/20.486.774_0001-81 1 2 0 0
+/clientes/consultaCadastrado/23.918.358_0001-01 1 2 0 0
+/clientes/consultaCadastrado/011.549.443-01 1 2 0 0
+/contasPagar/pagar/2481 1 23839 0 0
+/clientes/consultaCadastrado/03.019.885_0001-69 1 2 0 0
+/dfe 20 500665 0 0
+/clientes/edit/139 1 143012 0 0
+/clientes/consultaCadastrado/15.941.305_0001-75 1 2 0 0
+/contasPagar/edit/4640 1 24311 0 0
+/clientes/consultaCadastrado/19.290.945_0002-02 2 474 0 0
+/perfilAcesso/edit/2 3 105783 0 0
+/contasPagar/pagar/210 1 23812 0 0
+/contasPagar/pagar/2804 2 47639 0 0
+/contasPagar/pagar/3236 2 47653 0 0
+/contasPagar/edit/3 3 70981 0 0
+/clientes/edit/121 1 142977 0 0
+/produtos/edit/16 1 34080 0 0
+/clientes/verificaLimite 6 2703 0 0
+/estoque 7 165117 0 0
+/vendas/atualizar 2 8 0 0
+/clientes/consultaCadastrado/29.439.895_0001-47 1 2 0 0
+/frenteCaixa/filtro 2 51956 0 0
+/clientes/consultaCadastrado/091.401.590-00 1 2 0 0
+/empresas 26 718888 0 0
+/empresas/detalhes/7 2 75677 0 0
+/contasReceber/filtro 21 1084422 0 0
+/enviarXml/filtro 1 20181 0 0
+/clientes/edit/43 1 142964 0 0
+/clientes/edit/94 1 142968 0 0
+/subcategorias/new/5 8 159720 0 0
+/funcionarios/comissaoFiltro 1 23474 0 0
+/categoriasConta/new 17 388337 0 0
+/clientes/consultaCadastrado/42.096.467_0001-27 1 2 0 0
+/representantes/novo 3 68693 0 0
+/contasPagar/pagar/1075 1 23406 0 0
+/produtos/edit/149 1 36626 0 0
+/contasPagar/edit/6087 2 48540 0 0
+/clientes/edit/101 1 143070 0 0
+/clientes/consultaCadastrado/13.537.459_0001-70 1 2 0 0
+/mdfe 3 79377 0 0
+/clientes/edit/74 1 143050 0 0
+/categorias/edit/4 1 22758 0 0
+/clientes/edit/71 1 143009 0 0
+/subcategorias/new/20 1 19982 0 0
+/clientes/edit/66 1 142988 0 0
+/clientes/consultaCadastrado/06.698.940_0001-82 1 2 0 0
+/clientes/consultaCadastrado/33.938.719_0001-27 1 2 0 0
+/clientes/consultaCadastrado/21.767.399_0001-00 1 2 0 0
+/contasPagar/pagar/5396 1 23817 0 0
+/produtos/edit/119 1 34087 0 0
+/clientes/edit/91 2 285943 0 0
+/produtoEcommerce 2 49106 0 0
+/clientes/consultaCadastrado/42.287.291_0001-90 1 2 0 0
+/clientes/edit/57 1 142948 0 0
+/clientes/consultaCadastrado/19.290.945_0004-66 1 2 0 0
+/perfilAcesso 5 109708 0 1
+/contasPagar/edit/3020 1 24259 0 0
+/clientes/consultaCadastrado/13.174.717_0001-00 1 2 0 0
+/clientes/consultaCadastrado/03.074.236_0001-60 1 2 0 0
+/categorias/quickSave 12 1228 0 0
+/nfce/imprimirNaoFiscal/9 1 1476 0 0
+/relatorios/filtroEstoqueMinimo 1 981 0 1
+/clientes/edit/9 2 285974 0 0
+/vendas/salvar 4 8 0 0
+/clientes/edit/7 2 286092 0 0
+/cpanel 1 13584 0 0
+/contatoEcommerce 1 23952 0 0
+/cidades/findNome/CAMPOS%20BELOS 1 121 0 0
+/ibpt/refresh/1 1 25842 0 0
+/clientes/consultaCadastrado/27.724.762_0001-97 1 2 0 0
+/contasPagar/pagar/3776 4 95328 0 0
+/contasPagar/pagar/4 1 22970 0 0
+/clientes/consultaCadastrado/21.940.270_0001-52 1 2 0 0
+/plano 27 208564 0 3
+/contasPagar/pagar/1723 1 23385 0 0
+/contasPagar/pagar/3127 1 23396 0 0
+/percentualuf/verProdutos/AC 1 23481 0 0
+/clientes/edit/116 1 143046 0 0
+/contasReceber/edit/63 1 30112 0 0
+/clientes/edit/112 2 285939 0 0
+/contasPagar/pagar/2480 1 23833 0 0
+/configNF/teste 1 232 0 0
+/contasPagar/edit/5179 3 72819 0 0
+/clientes/edit/118 1 143012 0 0
+/subcategorias/new/2 1 19966 0 0
+/clientes/consultaCadastrado/07.323.081_0001-00 1 2 0 0
+/clientes/edit/142 1 142946 0 0
+/clientes/edit/13 1 142973 0 0
+/carrosselEcommerce 1 23396 0 0
+/contasPagar/pagar/533 1 23375 0 0
+/clientes/edit/27 1 142985 0 0
+/agendamentos/comissao 2 36043 0 0
+/pedidosEcommerce 1 24937 0 0
+/contasPagar/edit/1940 1 24297 0 0
+/planos/editar/1 5 119423 0 0
+/dre/save 3 626 0 0
+/contasPagar/pagar/2372 4 95346 0 0
+/contasPagar/pagar/1940 2 47641 0 0
+/listaDePrecos/filtro 2 47465 0 0
+/produtos/edit/22 2 67989 0 0
+/clientes/edit/96 1 143004 0 0
+/telasPedido 5 112126 0 0
+/clientes/edit/76 1 143017 0 0
+/clientes/edit/61 1 142983 0 0
+/contasPagar/edit/1292 2 48546 0 0
+/clientes/consultaCadastrado/37.664.243_0001-34 1 2 0 0
+/contasPagar/pagar/1076 2 47687 0 0
+/configEcommerce 2 55275 0 0
+/clientes/consultaCadastrado/30.104.488_0001-68 1 2 0 0
+/clientes/edit/80 1 143102 0 0
+/contasPagar/pagar/5395 1 23821 0 0
+/agendamentos/saveCliente 1 250 0 0
+/clientes/edit/64 1 142990 0 0
+/clientes/edit/85 1 143011 0 0
+/categorias/new 23 477309 0 0
+/categoriasServico 20 396301 0 0
+/divisaoGrade 5 110391 0 0
+/produtos/edit/29 1 33486 0 0
+/clientes/consultaCadastrado/08.894.878_0001-20 1 2 0 0
+/empresas/alterarSenha/11 1 25793 0 0
+/contasPagar/edit/2372 3 72364 0 0
+/clientes/edit/89 1 142940 0 0
+/contasPagar/pagar/2912 1 23822 0 0
+/clientes/consultaCadastrado/31.620.523_0001-64 1 2 0 0
+/nfce/imprimirNaoFiscal/3 1 1386 0 0
+/clientes/consultaCadastrado/36.736.903_0001-82 1 2 0 0
+/categorias/edit/8 1 20003 0 0
+/contasPagar/pagar/2588 2 47654 0 0
+/empresas/detalhes/12 1 41167 0 0
+/clientes/consultaCadastrado/18.077.146_0001-09 1 2 0 0
+/gruposCliente/edit/1 1 19987 0 0
+/tributos 27 576126 0 1
+/clientes/consultaCadastrado/34.319.448_0001-94 1 2 0 0
+/dfe/download/41211111436073000147550010002803301556332388 2 28439 0 0
+/planos 14 332115 1 0
+/online 3 67285 0 0
+/produtos/edit/52 1 33636 0 0
+/pedidos 4 98766 0 0
+/clientes/consultaCadastrado/00.701.247_0001-35 1 2 0 0
+/anime/success-upload.json 2 33878 0 0
+/clientes/consultaCadastrado/28.628.299_0001-42 1 2 0 0
+/funcionarios/edit/5 1 23663 0 0
+/clientes/edit/82 1 143016 0 0
+/funcionarios 28 666093 0 0
+/clientes/consultaCadastrado/18.689.819_0001-73 1 2 0 0
+/clientes/edit/48 1 143017 0 0
+/clientes/consultaCadastrado/22.030.238_0001-00 1 2 0 0
+/clientes/consultaCadastrado/32.915.908_0001-11 1 2 0 0
+/acessores/new 1 82523 0 0
+/contasPagar/pagar/318 1 23812 0 0
+/contasPagar/pagar/3884 3 71494 0 0
+/suprimentoCaixa/diaria 1 2 0 0
+/clientes/consultaCadastrado/05.073.276_0001-13 1 2 0 0
+/cidades/findNome/PALMAS 1 112 0 0
+/configNF/certificado 4 78439 0 0
+/clientes/consultaCadastrado/02.834.062_0001-24 1 2 0 0
+/agendamentos/detalhes/2 1 22980 0 0
+/contasPagar/pagar/426 1 23824 0 0
+/compraFiscal/salvarItem 15 2510 0 0
+/clientes/consultaCadastrado/32.767.475_0001-02 1 2 0 0
+/representantes 11 254809 0 0
+/clientes/consultaCadastrado/27.851.923_0001-03 1 2 0 0
+/ordemServico/alterarEstado/1 1 23557 0 0
+/transportadoras/new 2 158382 0 0
+/clientes/edit/67 1 143012 0 0
+/payment/20021395409 1 21840 0 0
+/usuarios/historico/8 1 22921 0 0
+/contasPagar/pagar/1185 1 23825 0 0
+/empresas/setarPlano/8 1 29721 0 0
+/enviarXml 5 103394 0 0
+/clientes/edit/83 2 286014 0 0
+/clientes/consultaCadastrado/42.228.240_0001-98 1 2 0 0
+/clientes/consultaCadastrado/40.709.876_0001-26 1 2 0 0
+/caixa/detalhes/2 1 20333 0 0
+/graficos/faturamentoFiltrado 3 253 0 0
+/financeiro 5 126404 0 0
+/clientes/consultaCadastrado/20.011.740_0001-30 1 2 0 0
+/clientes/consultaCadastrado/08.149.149_0001-49 1 2 0 0
+/clientes/consultaCadastrado/36.710.932_0001-75 1 2 0 0
+/clientes/consultaCadastrado/33.173.958_0001-33 1 2 0 0
+/produtos/getProduto/250 1 725 0 0
+/produtos/edit/17 2 68080 0 0
+/financeiro/novoPagamento 1 26699 0 0
+/informativoEcommerce 1 23934 0 0
+/orcamentoVenda 19 473668 0 0
+/clientes/consultaCadastrado/184.522.440-00 1 2 0 0
+/contasPagar/edit/2587 3 72765 0 0
+/contrato 3 73263 0 0
+/contasPagar/edit/5288 2 48554 0 0
+/clientes/consultaCadastrado/13.106.439_0001-45 1 2 0 0
+/clientes/consultaCadastrado/11.163.703_0001-57 1 2 0 0
+/compraFiscal 22 469535 0 2
+/nf/consultaCadastro 4 1014 0 0
+/clientes/consultaCadastrado/230.833.450-00 1 2 0 0
+/graficos/boxConsulta/1 6 472 0 1
+/vendas/edit/2 3 181860 0 0
+/clientes/consultaCadastrado/39.654.855_0001-71 1 2 0 0
+/contasPagar/pagar/4101 1 23835 0 0
+/clientes/consultaCadastrado/08.894.878_0889-48 1 2 0 0
+/usuarios/edit/14 3 115807 0 0
+/contasPagar/edit/5396 2 48498 0 0
+/fluxoCaixa/filtro 2 55513 0 0
+/clientes/consultaCadastrado/01.643.640_0001-82 1 2 0 0
+/deliveryComplemento 3 66525 0 0
+/vendas/edit/1 1 36763 0 0
+/estoque/apontamentoProducao 8 180263 0 0
+/fornecedores/consultaCadastrado/055.054.091-13 2 4 0 0
+/clientes/edit/19 1 142997 0 0
+/clientes/edit/54 1 143049 0 0
+/compras/detalhes/4 1 19323 0 0
+/contasPagar/pagar/4424 1 23831 0 0
+/gruposCliente/new 3 71239 0 0
+/clientes/edit/51 1 143035 0 0
+/clientes/edit/12 1 142978 0 0
+/relatorios/filtroVendaDiaria 10 14376 0 2
+/ordemServico 14 307347 0 0
+/clientes/consultaCadastrado/33.752.949_0001-05 1 2 0 0
+/contasPagar/pagar/4856 4 95326 0 0
+/relatorios/tiposPagamento 2 4403 0 0
+/clientes/consultaCadastrado/21.918.236_0001-81 1 2 0 0
+/clientes/edit/38 1 143022 0 0
+/usuarios/edit/11 1 37456 0 0
+/dfe/downloadXml/41211111436073000147550010002803301556332388 1 4335 0 0
+/produtos/getProduto/251 2 1444 0 0
+/clientes/edit/21 1 143017 0 0
+/empresas/verDelete/4 1 22082 0 0
+/contasPagar/pagar/534 1 23812 0 0
+/clientes/consultaCadastrado/055.054.091-14 2 4 0 0
+/clientes/consultaCadastrado/30.957.642_0001-44 1 2 0 0
+/contasReceber/relatorio 1 8781 0 0
+/contasPagar/edit/2481 3 72785 0 0
+/clientes/edit/15 1 143102 0 0
+/clientes/consultaCadastrado/24.111.226_0001-28 1 2 0 0
+/servicos/all 3 234 0 0
+/clientes/edit/24 1 142981 0 0
+/clientes/consultaCadastrado/31.328.523_0001-95 1 2 0 0
+/compras 13 290953 0 0
+/clientes/edit/10 2 280817 0 0
+/vendas/detalhar/2 2 42649 0 0
+/clientes/edit/88 1 142977 0 0
+/agendamentos/save 1 52 0 0
+/contasPagar/edit/3128 4 97083 0 0
+/clientes/edit/42 1 142988 0 0
+/produtos/edit/250 1 32058 0 0
+/clientes/consultaCadastrado/012.941.662-20 3 6 0 0
+/empresas/detalhes/11 6 247799 0 1
+/gruposCliente 14 315446 0 0
+/empresas/configEmitente/9 2 175894 0 0
+/clientes/consultaCadastrado/21.821.920_0001-40 1 2 0 0
+/contasPagar/edit/319 1 24245 0 0
+/nf/cancelar 1 358 0 0
+/clientes/consultaCadastrado/35.805.776_0001-63 1 2 0 0
+/frenteCaixa/list 19 476395 0 0
+/relatorios/filtroVendas 1 1171 0 0
+/clientes/importacao 6 131961 1 0
+/clientes/edit/49 1 142946 0 0
+/aberturaCaixa/abrir 6 830 0 0
+/relatorios/filtroVendaClientes 1 1342 0 0
+/clientes/edit/97 1 143023 0 0
+/categoriaDespesa 3 70139 0 0
+/clientes/edit/77 1 143050 0 0
+/clientes/consultaCadastrado/37.168.925_0001-56 1 2 0 0
+/clientes/edit/131 1 143015 0 0
+/clientes/edit/45 1 142992 0 0
+/graficos/boxConsulta/60 7 619 0 1
+/subcategorias/quickSave 7 715 0 0
+/clientes/edit/40 1 143026 0 0
+/contasPagar/pagar/4963 1 23854 0 0
+/contasPagar/edit/1833 1 24250 0 0
+/servicos/edit/1 1 20364 0 0
+/cte 6 169455 0 0
+/listaDePrecos/pesquisa 2 43990 0 0
+/contasPagar/pagar/1399 1 23391 0 0
+/planos/editar/3 1 24010 0 0
+/dfe/download/17211123883053000284550010000124991003007606 1 25202 0 0
+/usuarios/edit/1 3 114104 0 0
+/clientes/consultaCadastrado/34.079.845_0001-36 1 2 0 0
+/clientes/new 33 4589218 0 1
+/contasPagar/edit/4856 3 72775 0 0
+/clientes/consultaCadastrado/20.589.162_0001-14 1 2 0 0
+/clientes/consultaCadastrado/35.370.825_0001-82 1 2 0 0
+/clientes/edit/5 3 429307 0 0
+/contasPagar/edit/6737 1 26166 0 0
+/contasPagar/pagar/1832 1 23826 0 0
+/produtos/edit/28 2 66937 0 0
+/contasPagar/pagar/3561 1 23841 0 0
+/clientes/edit/33 3 429059 0 0
+/contasPagar/edit/1617 1 24252 0 0
+/clientes/consultaCadastrado/18.769.961_0001-20 1 2 0 0
+/categoriaEcommerce 2 46774 0 0
+/subcategorias/list/5 10 200050 0 0
+/clientes/consultaCadastrado/14.168.259_0001-50 1 2 0 0
+/cotacao 10 230705 0 0
+/fornecedores 23 579423 0 0
+/clientes/consultaCadastrado/10.919.252_0001-72 1 2 0 0
+/clientes/edit/147 1 138773 0 1
+/clientes/edit/130 1 142981 0 0
+/contasPagar/pagar/4100 2 47657 0 0
+/clientes/edit/117 1 143038 0 0
+/produtos/edit/72 1 33754 0 0
+/contasPagar/edit/1400 2 48500 0 0
+/categoriasConta/edit/5 2 40218 0 0
+/suprimentoCaixa/imprimir/1 1 1131 0 0
+/clientes/consultaCadastrado/21.260.656_0001-13 1 2 0 0
+/clientes/edit/129 2 286173 0 0
+/clientes/edit/105 1 143013 0 0
+/transportadoras 8 189923 0 0
+/nfce/imprimirNaoFiscal/6 1 1293 0 0
+/contasPagar/pagar/643 1 23822 0 0
+/clientes/edit/103 1 142949 0 0
+/clientes/edit/26 2 286057 0 0
+/frenteCaixa/fechar 1 24212 0 0
+/contasPagar/pagar/5719 1 23825 0 0
+/vendas/nova 36 3155063 0 0
+/clientes/edit/56 1 143000 0 0
+/contasPagar/edit/2048 1 24263 0 0
+/contasPagar/edit/1076 1 24267 0 0
+/produtos/edit/95 1 34036 0 0
+/clientes/edit/125 1 143041 0 0
+/marcas/quickSave 11 1088 0 0
+/clientes/consultaCadastrado/347.673.350-00 1 2 0 0
+/produtos/edit/251 2 62293 0 0
+/clientes/edit/109 1 143015 0 0
+/contasPagar/edit/211 2 47580 0 0
+/clientes/edit/123 1 143049 0 0
+/clientes/consultaCadastrado/277.247.620-00 1 2 0 0
+/produtos/edit/70 1 33684 0 0
+/clientes/consultaCadastrado/422.456.710-58 3 6 0 0
+/clientes/consultaCadastrado/23.873.626_0001-08 1 2 0 0
+/graficos/boxConsulta/30 10 894 0 1
+/caixa/filtro 1 19905 0 0
+/fornecedores/all 10 791 0 0
+/clientes/consultaCadastrado/40.313.712_0001-85 1 2 0 0
+/produtos/edit/47 1 33637 0 0
+/rep 6 143637 0 1
+/clientes/consultaCadastrado/30.878.970_0001-55 1 2 0 0
+/percentualuf/novo/RO 1 23818 0 0
+END_SIDER
