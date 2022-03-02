@@ -219,12 +219,13 @@ class ContasPagarController extends Controller
 		->where('empresa_id', $this->empresa_id)
 		->first();
 
+		
 		$conta->data_vencimento = $this->parseDate($request->vencimento);
 		$conta->referencia = $request->referencia;
 		$conta->valor_integral = str_replace(",", ".", $request->valor);
 		$conta->categoria_id = $request->categoria_id;
-		$conta->fornecedor_id = $request->fornecedor_id;
-$conta->fornecedor = $request->nome_fantasia;
+		// $conta->fornecedor_id = $request->fornecedor_id;
+		$conta->fornecedor = $request->nome_fantasia;
 		$result = $conta->save();
 
 		if($result){
