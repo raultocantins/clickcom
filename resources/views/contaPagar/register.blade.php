@@ -50,8 +50,11 @@
 												<select class="custom-select form-control" id="nome_fantasia" name="nome_fantasia">
 													
 													@foreach($fornecedores as $fornecedor)
+													
 													<option value="{{$fornecedor->nome_fantasia}}" @isset($conta)
-												
+														@if($fornecedor->nome_fantasia == $conta->fornecedor)
+														selected
+														@endif
 														@endisset >{{$fornecedor->nome_fantasia}}
 
 
