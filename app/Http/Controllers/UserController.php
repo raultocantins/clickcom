@@ -272,6 +272,11 @@ class UserController extends Controller
     // else if(isset($_SERVER['REMOTE_ADDR']))
     //   $ipaddress = $_SERVER['REMOTE_ADDR'];
     // else
+
+    print_r($_SERVER);
+    Log::info("${$_SERVER}");
+    echo $_SERVER;
+
       $ipaddress = $_SERVER['HTTP_CLIENT_IP'];
     return $ipaddress;
   }
