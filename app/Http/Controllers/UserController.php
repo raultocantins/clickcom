@@ -200,11 +200,12 @@ class UserController extends Controller
       );
 
       session(['user_logged' => $session]);
-      if($request->uri == ""){
-        return redirect('/' . getenv('ROTA_INICIAL'));
-      }else{
-        return redirect($request->uri);
-      }
+      return redirect('/' . getenv('ROTA_INICIAL'));
+      // if($request->uri == ""){
+      //   return redirect('/' . getenv('ROTA_INICIAL'));
+      // }else{
+      //   return redirect($request->uri);
+      // }
       
     
     }else{
