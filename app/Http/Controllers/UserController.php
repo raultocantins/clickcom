@@ -273,11 +273,15 @@ class UserController extends Controller
     //   $ipaddress = $_SERVER['REMOTE_ADDR'];
     // else
 
-    print_r($_SERVER);
-    Log::info("${$_SERVER}");
-    echo $_SERVER;
+    if($_SERVER['HTTP_DO_CONNECTING_IP']){
+      $ipaddress=$_SERVER['HTTP_DO_CONNECTING_IP'];
+    }else{
+      $ipaddress = 'UNKNOWN';
+    }
 
-      $ipaddress = $_SERVER['HTTP_CLIENT_IP'];
+  
+
+     
     return $ipaddress;
   }
 
